@@ -1,0 +1,1069 @@
+﻿Log file open, 04/19/21 06:56:50
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: DungeonsAndNgons
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.200033
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogXGEController: Cleaning working directory: C:/Users/JuanBoSVM/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.04.19-11.56.50:885][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.19-11.56.50:885][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.19-11.56.50:885][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Engine.ini]
+[2021.04.19-11.56.50:885][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.19-11.56.50:885][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Engine.ini]
+[2021.04.19-11.56.50:885][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Engine.ini]
+[2021.04.19-11.56.50:885][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.19-11.56.50:885][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.19-11.56.50:885][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.19-11.56.50:885][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.19-11.56.50:885][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.19-11.56.50:885][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.19-11.56.50:885][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.19-11.56.50:885][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.19-11.56.50:885][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.19-11.56.50:886][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.19-11.56.50:886][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.19-11.56.50:886][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.19-11.56.50:886][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.19-11.56.50:886][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.04.19-11.56.50:886][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Engine.ini]
+[2021.04.19-11.56.50:886][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.19-11.56.50:886][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.19-11.56.50:886][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.19-11.56.50:886][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.19-11.56.50:886][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.19-11.56.50:886][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.19-11.56.50:886][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.04.19-11.56.50:886][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.19-11.56.50:886][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.19-11.56.50:886][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.19-11.56.50:886][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.19-11.56.50:886][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.19-11.56.50:886][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.19-11.56.50:886][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.04.19-11.56.50:886][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Engine.ini]
+[2021.04.19-11.56.50:886][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Engine.ini]
+[2021.04.19-11.56.50:896][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.19-11.56.50:897][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.19-11.56.50:897][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.19-11.56.50:897][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.19-11.56.50:898][  0]LogHAL: Display: Platform has ~ 16 GB [16929984512 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.19-11.56.50:898][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.19-11.56.50:898][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.19-11.56.50:898][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.19-11.56.50:899][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.19-11.56.50:899][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.19-11.56.50:899][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.04.19-11.56.50:899][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Engine.ini]
+[2021.04.19-11.56.50:899][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Editor.ini]
+[2021.04.19-11.56.50:899][  0]LogInit: Computer: JBSVMS-PC
+[2021.04.19-11.56.50:899][  0]LogInit: User: JuanBoSVM
+[2021.04.19-11.56.50:899][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.04.19-11.56.50:899][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.04.19-11.56.50:899][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2021.04.19-11.56.50:899][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.19-11.56.50:899][  0]LogMemory: Process Physical Memory: 132.48 MB used, 132.48 MB peak
+[2021.04.19-11.56.50:899][  0]LogMemory: Process Virtual Memory: 118.25 MB used, 118.25 MB peak
+[2021.04.19-11.56.50:899][  0]LogMemory: Physical Memory: 5288.46 MB used,  10857.23 MB free, 16145.69 MB total
+[2021.04.19-11.56.50:899][  0]LogMemory: Virtual Memory: 134209000.00 MB used,  8728.36 MB free, 134217728.00 MB total
+[2021.04.19-11.56.51:045][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.19-11.56.51:076][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.04.19-11.56.51:077][  0]LogInit: Using OS detected language (en-US).
+[2021.04.19-11.56.51:077][  0]LogInit: Using OS detected locale (en-001).
+[2021.04.19-11.56.51:081][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.04.19-11.56.51:232][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.19-11.56.51:241][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.04.19-11.56.51:260][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.19-11.56.51:260][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.19-11.56.51:382][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.19-11.56.51:382][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.04.19-11.56.51:382][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.04.19-11.56.51:382][  0]LogD3D11RHI: D3D11 adapters:
+[2021.04.19-11.56.51:469][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2021.04.19-11.56.51:469][  0]LogD3D11RHI:       5980/0/8072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.04.19-11.56.51:495][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2021.04.19-11.56.51:495][  0]LogD3D11RHI:       128/0/8072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.04.19-11.56.51:497][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.04.19-11.56.51:497][  0]LogD3D11RHI:       0/0/8072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.04.19-11.56.51:497][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.04.19-11.56.51:504][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.04.19-11.56.51:504][  0]LogD3D11RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2021.04.19-11.56.51:504][  0]LogWindows: EnumDisplayDevices:
+[2021.04.19-11.56.51:504][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2021.04.19-11.56.51:504][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.04.19-11.56.51:504][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.04.19-11.56.51:504][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
+[2021.04.19-11.56.51:504][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.04.19-11.56.51:505][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.04.19-11.56.51:505][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.04.19-11.56.51:505][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.04.19-11.56.51:505][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2021.04.19-11.56.51:505][  0]LogD3D11RHI:   Driver Version: 465.89 (internal:27.21.14.6589, unified:465.89)
+[2021.04.19-11.56.51:505][  0]LogD3D11RHI:      Driver Date: 3-25-2021
+[2021.04.19-11.56.51:505][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2021.04.19-11.56.51:569][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.04.19-11.56.51:570][  0]LogD3D11RHI: Async texture creation enabled
+[2021.04.19-11.56.51:570][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.04.19-11.56.51:592][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.04.19-11.56.51:593][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.04.19-11.56.51:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.04.19-11.56.51:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.04.19-11.56.51:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.04.19-11.56.51:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.04.19-11.56.51:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.04.19-11.56.51:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.04.19-11.56.51:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.19-11.56.51:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.04.19-11.56.51:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.19-11.56.51:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.04.19-11.56.51:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.04.19-11.56.51:934][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.04.19-11.56.51:934][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.04.19-11.56.51:949][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.04.19-11.56.51:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.19-11.56.51:972][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.04.19-11.56.51:982][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.04.19-11.56.51:995][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.04.19-11.56.52:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.04.19-11.56.52:016][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.04.19-11.56.52:052][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.04.19-11.56.52:052][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.04.19-11.56.52:064][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.04.19-11.56.52:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.04.19-11.56.52:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.04.19-11.56.52:100][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.04.19-11.56.52:115][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.04.19-11.56.52:115][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.04.19-11.56.52:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.19-11.56.52:133][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.04.19-11.56.52:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.04.19-11.56.52:151][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.04.19-11.56.52:151][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.19-11.56.52:158][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.19-11.56.52:210][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.04.19-11.56.52:210][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Intermediate/Shaders/WorkingDirectory/12788/).
+[2021.04.19-11.56.52:211][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/JuanBoSVM/AppData/Local/Temp/UnrealShaderWorkingDir/10C91C1A41FAD205DE82FA995DD5B53B/'.
+[2021.04.19-11.56.52:211][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.04.19-11.56.52:211][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.19-11.56.53:020][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.19-11.56.53:139][  0]LogDerivedDataCache: Loaded boot cache 0.12s 85MB C:/Users/JuanBoSVM/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.19-11.56.53:140][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/JuanBoSVM/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.04.19-11.56.53:140][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.19-11.56.53:140][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.19-11.56.53:140][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.19-11.56.53:140][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.04.19-11.56.53:160][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.19-11.56.53:161][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.19-11.56.53:161][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.04.19-11.56.53:179][  0]LogDerivedDataCache: Speed tests for C:/Users/JuanBoSVM/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.04.19-11.56.53:179][  0]LogDerivedDataCache: Display: Performance to C:/Users/JuanBoSVM/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=134.54MBs, RandomWriteSpeed=86.62MBs. Assigned SpeedClass 'Local'
+[2021.04.19-11.56.53:179][  0]LogDerivedDataCache: Using Local data cache path C:/Users/JuanBoSVM/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.04.19-11.56.53:180][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.19-11.56.53:180][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.19-11.56.53:226][  0]LogSlate: Using FreeType 2.10.0
+[2021.04.19-11.56.53:226][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.19-11.56.53:245][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2021.04.19-11.56.53:472][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.19-11.56.53:472][  0]LogInit: Active device profile: [0000021F86FAE400][0000021FFF802940 49] Windows
+[2021.04.19-11.56.53:473][  0]LogInit: Profiles: [0000021F86FAE400][0000021FFF802940 49] Windows, [0000021F86F5A000][0000021F854AAAC0 49] WindowsNoEditor, [0000021F86FAF100][0000021F854AEC40 49] WindowsServer, [0000021F86F5B800][0000021F854B2DC0 49] WindowsClient, [0000021F86FAE100][0000021F854B6F40 49] IOS, [0000021F86F5B000][0000021F854BB0C0 49] iPadAir, [0000021F86FAD200][0000021F854FB240 49] iPadAir2, [0000021F86F0EF00][0000021F85503500 49] IPadPro, [0000021F86F0F000][0000021F854FF540 49] iPadAir3, [0000021F86FAEA00][0000021F854A7680 49] iPadAir4, [0000021F86F0E900][0000021F855077C0 49] iPadMini2, [0000021F86FACF00][0000021F8550B900 49] iPadMini3, [0000021F86F0D800][0000021F85513A80 49] iPadMini4, [0000021F86FAEB00][0000021F85517C00 49] iPadMini5, [0000021F86F1E800][0000021F8551E200 49] iPhone6, [0000021F86F1E900][0000021F8551A240 49] iPodTouch6, [0000021F86F0F600][0000021F85526500 49] iPhone7, [0000021F86F0F700][0000021F85522540 49] iPodTouch7, [0000021F86F1E700][0000021F8552A6C0 49] iPhone5S, [0000021F86F0E500][0000021F8552E840 49] iPhone6Plus, [0000021F86F1D400][0000021F855329C0 49] iPhone6S, [0000021F86F0D400][0000021F85536B40 49] iPhone6SPlus, [0000021F86F1C200][0000021F8553ACC0 49] iPhone7Plus, [0000021F86F0F500][0000021F8553EE40 49] iPhoneSE, [0000021F86F1EF00][0000021F85542FC0 49] iPhone8, [0000021F86F0FF00][0000021F85547140 49] iPhone8Plus, [0000021F86F1DC00][0000021F8554B2C0 49] iPhoneX, [0000021F86F0E200][0000021F8554F440 49] iPhoneXS, [0000021F86F1C300][0000021F855535C0 49] iPhoneXSMax, [0000021F86F0FC00][0000021F8550F700 49] iPhoneXR, [0000021F86F1FD00][0000021F85557840 49] iPhone11, [0000021F86F0E000][0000021F8555B980 49] iPhone11Pro, [0000021F86F1F400][0000021F8555FAC0 49] iPhone11ProMax, [0000021F86F0EB00][0000021F85567C40 49] iPhoneSE2, [0000021F86F1EB00][0000021F8556A100 49] iPhone12Mini, [0000021F86F0CF00][0000021F8556E280 49] iPhone12, [0000021F86F1E200][0000021F85572400 49] iPhone12Pro, [0000021F86F0F300][0000021F85576580 49] iPhone12ProMax, [0000021F86F1F000][0000021F8557A700 49] iPadPro105, [0000021F86F0FE00][0000021F8557E880 49] iPadPro129, [0000021F86F59600][0000021F85582A00 49] iPadPro97, [0000021F86F1F300][0000021F85586B80 49] iPadPro2_129, [0000021F86F59B00][0000021F8558AD00 49] iPad5, [0000021F86F1E100][0000021F8558EE80 49] iPad6, [0000021F86F59700][0000021F85593000 49] iPad7, [0000021F86F1E600][0000021F85597180 49] iPad8, [0000021F86F58100][0000021F8559B300 49] iPadPro11, [0000021F86F1DD00][0000021F8559F480 49] iPadPro2_11, [0000021F86F5BE00][0000021F855A3600 49] iPadPro3_129, [0000021F86F1EC00][0000021F85563740 49] iPadPro4_129, [0000021F86F5A400][0000021F855A7880 49] AppleTV, [0000021F86F0E600][0000021F855AB9C0 49] AppleTV4K, [0000021F86F58C00][0000021F855AFB00 49] TVOS, [0000021F86F0D900][0000021F855B7C80 49] Mac, [0000021F86F5AD00][0000021F855BA140 49] MacClient, [0000021F86F0DA00][0000021F855BE2C0 49] MacNoEditor, [0000021F86F5BA00][0000021F855C2440 49] MacServer, [0000021F86F0D500][0000021F855C65C0 49] Linux, [0000021F86F58600][0000021F855CA740 49] LinuxAArch64, [0000021F86F0D000][0000021F855CE8C0 49] LinuxNoEditor, [0000021F86F59C00][0000021F855D2A40 49] LinuxAArch64NoEditor, [0000021F86F0CB00][0000021F855D6BC0 49] LinuxClient, [0000021F86F5B900][0000021F855DAD40 49] LinuxAArch64Client, [0000021F86F0D200][0000021F855DEEC0 49] LinuxServer, [0000021F86F5B600][0000021F855E3040 49] LinuxAArch64Server, [0000021F86F0C700][0000021F855E71C0 49] Android, [0000021F86F5AC00][0000021F855EB340 49] Android_Low, [0000021F86F0FA00][0000021F855EF4C0 49] Android_Mid, [0000021F86F59E00][0000021F855F3640 49] Android_High, [0000021F86F0E400][0000021F855F77C0 49] Android_Default, [0000021F86F58B00][0000021F855B3900 49] Android_Adreno4xx, [0000021F86F0CE00][0000021F855FBA40 49] Android_Adreno5xx_Low, [0000021F86F5A300][0000021F855FFB80 49] Android_Adreno5xx, [0000021F86F0DD00][0000021F85607D00 49] Android_Adreno6xx, [0000021F86F5B400][0000021F8560A1C0 49] Android_Adreno6xx_Vulkan, [0000021F86F0E700][0000021F8560E340 49] Android_Mali_T6xx, [0000021F86F58700][0000021F856124C0 49] Android_Mali_T7xx, [0000021F86F0F100][0000021F85616640 49] Android_Mali_T8xx, [0000021F86F58F00][0000021F8561A7C0 49] Android_Mali_G71, [0000021F86F0DF00][0000021F85E50940 49] Android_Mali_G72, [0000021F86F59300][0000021F85E54AC0 49] Android_Mali_G72_Vulkan, [0000021F86F0CD00][0000021F85E58C40 49] Android_Mali_G76, [0000021F86F5AA00][0000021F85E5CDC0 49] Android_Mali_G76_Vulkan, [0000021F86F0C100][0000021F85E60F40 49] Android_Mali_G77, [0000021F86F59200][0000021F85E650C0 49] Android_Mali_G77_Vulkan, [0000021F86F0FB00][0000021F85E69240 49] Android_Vulkan_SM5, [0000021F86F5A900][0000021F85E6D3C0 49] Android_PowerVR_G6xxx, [0000021F86F0F900][0000021F85E71540 49] Android_PowerVR_GT7xxx, [0000021F86F5A100][0000021F85E756C0 49] Android_PowerVR_GE8xxx, [0000021F86F0F200][0000021F85E79840 49] Android_PowerVR_GM9xxx, [0000021F86F5B100][0000021F85603980 49] Android_PowerVR_GM9xxx_Vulkan, [0000021F86F0E300][0000021F85E7DAC0 49] Android_TegraK1, [0000021F86F5A700][0000021F85E81C00 49] Android_Unknown_Vulkan, [0000021F86F0F800][0000021F85E880C0 49] Lumin, [0000021F86FAFE00][0000021F85E8C240 49] Lumin_Desktop, [0000021F86F1F100][0000021F85E903C0 49] HoloLens, 
+[2021.04.19-11.56.53:584][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.19-11.56.53:584][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.19-11.56.53:584][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.19-11.56.53:584][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.19-11.56.53:585][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.19-11.56.53:606][  0]LogNetVersion: DungeonsAndNgons 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3515414654)
+[2021.04.19-11.56.53:982][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.04.19-11.56.54:025][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.042728 seconds
+[2021.04.19-11.56.54:032][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.04.19-11.56.54:032][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.04.19-11.56.54:032][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.19-11.56.54:317][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.19-11.56.54:323][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.04.19-11.56.54:861][  0]SourceControl: Source control is disabled
+[2021.04.19-11.56.54:861][  0]SourceControl: Source control is disabled
+[2021.04.19-11.56.54:865][  0]SourceControl: Source control is disabled
+[2021.04.19-11.56.54:871][  0]SourceControl: Source control is disabled
+[2021.04.19-11.56.54:879][  0]SourceControl: Source control is disabled
+[2021.04.19-11.56.54:893][  0]LogUProjectInfo: Found projects:
+[2021.04.19-11.56.54:951][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.19-11.56.54:971][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.19-11.56.54:971][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.19-11.56.55:080][  0]LogOcInput: OculusInput pre-init called
+[2021.04.19-11.56.55:089][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.04.19-11.56.55:089][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.04.19-11.56.55:096][  0]LogCollectionManager: Loaded 0 collections in 0.000627 seconds
+[2021.04.19-11.56.55:140][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Collections/' took 0.00s
+[2021.04.19-11.56.55:140][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Developers/JuanBoSVM/Collections/' took 0.00s
+[2021.04.19-11.56.55:140][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Collections/' took 0.00s
+[2021.04.19-11.56.55:140][  0]LogEngine: Initializing Engine...
+[2021.04.19-11.56.55:141][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.19-11.56.55:141][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.04.19-11.56.55:142][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.04.19-11.56.55:235][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.19-11.56.55:241][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.19-11.56.55:251][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.04.19-11.56.55:254][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.04.19-11.56.55:254][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.04.19-11.56.55:254][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.19-11.56.55:254][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.19-11.56.55:254][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.19-11.56.55:254][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.19-11.56.55:254][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.19-11.56.55:254][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.19-11.56.55:254][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.19-11.56.55:254][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.19-11.56.55:255][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.19-11.56.55:255][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.19-11.56.55:317][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.19-11.56.55:317][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.04.19-11.56.55:317][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.19-11.56.55:317][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.19-11.56.55:317][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.04.19-11.56.55:317][  0]LogAudioMixer: Display: 5: BackRight
+[2021.04.19-11.56.55:317][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.04.19-11.56.55:317][  0]LogAudioMixer: Display: 7: SideRight
+[2021.04.19-11.56.55:465][  0]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2021.04.19-11.56.55:467][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.19-11.56.55:469][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.19-11.56.55:469][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.19-11.56.55:469][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.19-11.56.55:469][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.19-11.56.55:469][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.19-11.56.55:470][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.19-11.56.55:470][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.19-11.56.55:470][  0]LogInit: FAudioDevice initialized.
+[2021.04.19-11.56.55:471][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.04.19-11.56.55:471][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.19-11.56.55:529][  0]LogDerivedDataCache: Saved boot cache 0.06s 85MB C:/Users/JuanBoSVM/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.19-11.56.55:529][  0]LogInit: Texture streaming: Enabled
+[2021.04.19-11.56.55:543][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.04.19-11.56.55:548][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.19-11.56.55:548][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={D652C599-49ED-494F-4405-638477E6E30C}
+[2021.04.19-11.56.55:548][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.19-11.56.55:550][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.19-11.56.55:576][  0]LogInit: Transaction tracking system initialized
+[2021.04.19-11.56.55:592][  0]BlueprintLog: New page: Editor Load
+[2021.04.19-11.56.55:647][  0]LocalizationService: Localization service is disabled
+[2021.04.19-11.56.55:666][  0]TimingProfiler: Initialize
+[2021.04.19-11.56.55:666][  0]TimingProfiler: OnSessionChanged
+[2021.04.19-11.56.55:666][  0]LoadingProfiler: Initialize
+[2021.04.19-11.56.55:666][  0]LoadingProfiler: OnSessionChanged
+[2021.04.19-11.56.55:666][  0]NetworkingProfiler: Initialize
+[2021.04.19-11.56.55:666][  0]NetworkingProfiler: OnSessionChanged
+[2021.04.19-11.56.55:666][  0]MemoryProfiler: Initialize
+[2021.04.19-11.56.55:666][  0]MemoryProfiler: OnSessionChanged
+[2021.04.19-11.56.55:779][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.04.19-11.56.55:779][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.19-11.56.55:899][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/' took 0.01s
+[2021.04.19-11.56.56:055][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.04.19-11.56.56:058][  0]SourceControl: Source control is disabled
+[2021.04.19-11.56.56:058][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.951
+[2021.04.19-11.56.56:058][  0]Cmd: MAP LOAD FILE="D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.19-11.56.56:059][  0]LightingResults: New page: Lighting Build
+[2021.04.19-11.56.56:059][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.19-11.56.56:059][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.19-11.56.56:059][  0]MapCheck: New page: Map Check
+[2021.04.19-11.56.56:059][  0]LightingResults: New page: Lighting Build
+[2021.04.19-11.56.56:067][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.04.19-11.56.56:335][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Town'.
+[2021.04.19-11.56.56:335][  0]LogAIModule: Creating AISystem for world Town
+[2021.04.19-11.56.56:355][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.19-11.56.56:377][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.04.19-11.56.56:377][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.19-11.56.56:378][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.071ms to complete.
+[2021.04.19-11.56.56:378][  0]LogFileHelpers: Loading map 'Town' took 0.319
+[2021.04.19-11.56.56:379][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.271
+[2021.04.19-11.56.56:486][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.19-11.56.56:492][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.19-11.56.56:497][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.19-11.56.56:502][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.19-11.56.56:513][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0078 seconds. Added 3603 classes and 861 folders.
+[2021.04.19-11.56.56:518][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.04.19-11.56.56:519][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.19-11.56.56:519][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.19-11.56.56:519][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.19-11.56.56:519][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.04.19-11.56.56:519][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.19-11.56.56:519][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.19-11.56.56:519][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.19-11.56.56:519][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.04.19-11.56.56:520][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.04.19-11.56.56:520][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.19-11.56.56:520][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.04.19-11.56.56:520][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.04.19-11.56.56:520][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.19-11.56.56:520][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.19-11.56.56:520][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.19-11.56.56:520][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.04.19-11.56.56:520][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.19-11.56.56:520][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.19-11.56.56:520][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.19-11.56.56:521][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.04.19-11.56.56:521][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.19-11.56.56:521][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.19-11.56.56:521][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.19-11.56.56:521][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.04.19-11.56.56:521][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.19-11.56.56:521][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.19-11.56.56:521][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.19-11.56.56:521][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.04.19-11.56.56:522][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.19-11.56.56:522][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.19-11.56.56:522][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.19-11.56.56:522][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.04.19-11.56.56:522][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.19-11.56.56:522][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.19-11.56.56:522][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.19-11.56.56:522][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.04.19-11.56.56:522][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.19-11.56.56:523][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.19-11.56.56:523][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.19-11.56.56:523][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.04.19-11.56.56:523][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.19-11.56.56:523][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.19-11.56.56:523][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.19-11.56.56:523][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.04.19-11.56.56:523][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.19-11.56.56:523][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.19-11.56.56:523][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.19-11.56.56:523][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.04.19-11.56.56:524][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.19-11.56.56:524][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.19-11.56.56:524][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.19-11.56.56:524][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.04.19-11.56.56:524][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.19-11.56.56:524][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.19-11.56.56:524][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.19-11.56.56:524][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.04.19-11.56.56:525][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.19-11.56.56:525][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.19-11.56.56:525][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.19-11.56.56:525][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.04.19-11.56.56:525][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.19-11.56.56:525][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.19-11.56.56:525][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.19-11.56.56:525][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.04.19-11.56.56:526][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.19-11.56.56:526][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.19-11.56.56:526][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.19-11.56.56:526][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.04.19-11.56.56:526][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.19-11.56.56:526][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.19-11.56.56:526][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.19-11.56.56:526][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.04.19-11.56.56:527][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.19-11.56.56:527][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.19-11.56.56:527][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.19-11.56.56:527][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.04.19-11.56.56:527][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.19-11.56.56:527][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.19-11.56.56:527][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.19-11.56.56:527][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.04.19-11.56.56:528][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.19-11.56.56:528][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.19-11.56.56:528][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.19-11.56.56:528][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.04.19-11.56.56:528][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.19-11.56.56:528][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.19-11.56.56:528][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.19-11.56.56:528][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.04.19-11.56.56:528][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.04.19-11.56.56:528][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.19-11.56.56:528][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.04.19-11.56.56:528][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.04.19-11.56.56:529][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.19-11.56.56:529][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.19-11.56.56:529][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.19-11.56.56:529][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.04.19-11.56.56:529][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.19-11.56.56:529][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.19-11.56.56:529][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.19-11.56.56:529][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.04.19-11.56.56:530][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.19-11.56.56:530][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.19-11.56.56:530][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.19-11.56.56:530][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.04.19-11.56.56:570][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.04.19-11.56.56:571][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.04.19-11.56.56:657][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.19-11.56.56:658][  0]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.19-11.56.56:662][  0]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.19-11.56.56:747][  0]LogRenderer: Reallocating scene render targets to support 1052x704 Format 10 NumSamples 1 (Frame:1).
+[2021.04.19-11.56.56:819][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.04.19-11.56.56:819][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.04.19-11.56.56:819][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.04.19-11.56.56:819][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.04.19-11.56.56:819][  0]LogLoad: (Engine Initialization) Total time: 6.71 seconds
+[2021.04.19-11.56.56:819][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.19-11.56.56:819][  0]LogInit: First time updating LLM stats...
+[2021.04.19-11.56.56:865][  0]LogAssetRegistry: Asset discovery search completed in 3.6202 seconds
+[2021.04.19-11.56.56:866][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.04.19-11.56.56:914][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.04.19-11.56.56:959][  2]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.19-11.57.29:257][751]LogTexture: Display: Building textures: Bark_N (BGRA8, 4069X4096)
+[2021.04.19-11.57.29:257][751]LogTextureCompressor: Warning: Source image 4069x4096 (npot) prevents resizing and is too large for compressors max dimension (-1).
+[2021.04.19-11.57.29:257][751]LogTexture: Warning: Failed to build BGRA8 derived data for /Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.Bark_N
+[2021.04.19-11.57.29:257][751]LogTexture: Error: Texture2D /Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.Bark_N contains no miplevels! Please delete. (Format: 0)
+[2021.04.19-11.57.36:960][883]LogEditorFactories: Performing atomic reimport of [D:/Downloads/Bark_N.png]
+[2021.04.19-11.57.37:064][883]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Downloads/Bark_N.png)
+[2021.04.19-11.57.37:082][883]LogTexture: Error: Texture2D /Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.Bark_N contains no miplevels! Please delete. (Format: 0)
+[2021.04.19-11.57.37:930][883]LogTexture: Display: Building textures: Bark_N (BGRA8, 4069X4096)
+[2021.04.19-11.57.37:930][883]LogTextureCompressor: Warning: Source image 4069x4096 (npot) prevents resizing and is too large for compressors max dimension (-1).
+[2021.04.19-11.57.37:930][883]LogTexture: Warning: Failed to build BGRA8 derived data for /Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.Bark_N
+[2021.04.19-11.57.37:930][883]LogTexture: Error: Texture2D /Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.Bark_N contains no miplevels! Please delete. (Format: 0)
+[2021.04.19-11.57.37:930][883]LogTexture: Error: Texture2D /Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.Bark_N contains no miplevels! Please delete. (Format: 0)
+[2021.04.19-11.57.37:930][883]LogEditorFactories: -- imported successfully
+[2021.04.19-11.57.38:029][883]LogTexture: Error: Texture2D /Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.Bark_N contains no miplevels! Please delete. (Format: 0)
+[2021.04.19-11.57.38:036][883]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.19-11.57.39:556][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.04.19-11.57.40:803][968]LogSlate: Window 'Save Content' being destroyed
+[2021.04.19-11.57.42:801][968]LogTexture: Error: Texture2D /Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.Bark_N contains no miplevels! Please delete. (Format: 0)
+[2021.04.19-11.57.42:801][968]LogSavePackage: Moving 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Bark_N7D859B4D4950538421C367A6D3C77554.tmp' to 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.uasset'
+[2021.04.19-11.57.42:824][968]AssetCheck: New page: Asset Save: Bark_N
+[2021.04.19-11.57.42:824][968]LogContentValidation: Display: Validating Texture2D /Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.Bark_N
+[2021.04.19-11.57.44:461][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.04.19-11.57.44:580][ 60]LogSavePackage: Moving 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Town181754E54F0372CDE2862AA7C55BBFC9.tmp' to 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town.umap'
+[2021.04.19-11.57.44:585][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Town/Town_BuiltData" FILE="D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town_BuiltData.uasset" SILENT=true
+[2021.04.19-11.57.44:818][ 60]LogSavePackage: Moving 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Town_BuiltDataCF4351334A9E28C045525C89209738F1.tmp' to 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town_BuiltData.uasset'
+[2021.04.19-11.57.44:827][ 60]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.19-11.57.44:827][ 60]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Maps/Town/Town_BuiltData.Town_BuiltData
+[2021.04.19-11.57.44:827][ 60]LogContentValidation: Display: Validating World /Game/Assets/Maps/Town/Town.Town
+[2021.04.19-11.59.04:718][992]LogEditorFactories: Performing atomic reimport of [D:/Downloads/Bark_N.png]
+[2021.04.19-11.59.04:818][992]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Downloads/Bark_N.png)
+[2021.04.19-11.59.04:837][992]LogTexture: Error: Texture2D /Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.Bark_N contains no miplevels! Please delete. (Format: 0)
+[2021.04.19-11.59.05:700][992]LogTexture: Display: Building textures: Bark_N (BGRA8, 4069X4096)
+[2021.04.19-11.59.05:700][992]LogTextureCompressor: Warning: Source image 4069x4096 (npot) prevents resizing and is too large for compressors max dimension (-1).
+[2021.04.19-11.59.05:700][992]LogTexture: Warning: Failed to build BGRA8 derived data for /Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.Bark_N
+[2021.04.19-11.59.05:700][992]LogTexture: Error: Texture2D /Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.Bark_N contains no miplevels! Please delete. (Format: 0)
+[2021.04.19-11.59.05:701][992]LogTexture: Error: Texture2D /Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.Bark_N contains no miplevels! Please delete. (Format: 0)
+[2021.04.19-11.59.05:701][992]LogEditorFactories: -- imported successfully
+[2021.04.19-11.59.05:802][992]LogTexture: Error: Texture2D /Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.Bark_N contains no miplevels! Please delete. (Format: 0)
+[2021.04.19-11.59.08:916][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.04.19-11.59.10:520][178]LogSlate: Window 'Save Content' being destroyed
+[2021.04.19-11.59.12:500][178]LogSavePackage: Moving 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Bark_N34586501432A39E7320C2690555EAD64.tmp' to 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.uasset'
+[2021.04.19-11.59.12:513][178]AssetCheck: New page: Asset Save: Bark_N
+[2021.04.19-11.59.12:513][178]LogContentValidation: Display: Validating Texture2D /Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.Bark_N
+[2021.04.19-11.59.13:301][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.19-11.59.13:402][220]LogSavePackage: Moving 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/TownF80E1C4B4304CF2565CF66A7F2ECF2BB.tmp' to 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town.umap'
+[2021.04.19-11.59.13:406][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Town/Town_BuiltData" FILE="D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town_BuiltData.uasset" SILENT=true
+[2021.04.19-11.59.13:601][220]LogSavePackage: Moving 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Town_BuiltData73F60FF944ABC1D4C8865386462DF6B8.tmp' to 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town_BuiltData.uasset'
+[2021.04.19-11.59.13:608][220]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.19-11.59.13:608][220]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Maps/Town/Town_BuiltData.Town_BuiltData
+[2021.04.19-11.59.13:609][220]LogContentValidation: Display: Validating World /Game/Assets/Maps/Town/Town.Town
+[2021.04.19-12.01.32:642][571]LogEditorFactories: Performing atomic reimport of [D:/Downloads/Bark_N.png]
+[2021.04.19-12.01.32:742][571]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Downloads/Bark_N.png)
+[2021.04.19-12.01.32:759][571]LogTexture: Error: Texture2D /Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.Bark_N contains no miplevels! Please delete. (Format: 0)
+[2021.04.19-12.01.33:614][571]LogTexture: Display: Building textures: Bark_N (BC5, 4096X4096)
+[2021.04.19-12.01.33:769][571]LogEditorFactories: -- imported successfully
+[2021.04.19-12.01.34:973][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.04.19-12.01.36:152][631]LogSlate: Window 'Save Content' being destroyed
+[2021.04.19-12.01.38:133][631]LogSavePackage: Moving 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Bark_N2F0D6B434A41C63E34A468B00CDC39DD.tmp' to 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.uasset'
+[2021.04.19-12.01.38:153][631]AssetCheck: New page: Asset Save: Bark_N
+[2021.04.19-12.01.38:153][631]LogContentValidation: Display: Validating Texture2D /Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.Bark_N
+[2021.04.19-12.01.38:738][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.19-12.01.38:839][662]LogSavePackage: Moving 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/TownF4FCB78643A217756226FFACECE3ECE1.tmp' to 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town.umap'
+[2021.04.19-12.01.38:844][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Town/Town_BuiltData" FILE="D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town_BuiltData.uasset" SILENT=true
+[2021.04.19-12.01.39:039][662]LogSavePackage: Moving 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Town_BuiltData125A89CB4B8927846D01C2BF5FBEBC71.tmp' to 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town_BuiltData.uasset'
+[2021.04.19-12.01.39:046][662]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.19-12.01.39:047][662]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Maps/Town/Town_BuiltData.Town_BuiltData
+[2021.04.19-12.01.39:047][662]LogContentValidation: Display: Validating World /Game/Assets/Maps/Town/Town.Town
+[2021.04.19-12.01.40:239][732]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.Bark_N
+[2021.04.19-12.01.40:246][732]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.04.19-12.01.51:826][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.04.19-12.01.51:929][395]LogSavePackage: Moving 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Town95AA0BCB49EFB69D6D7601AE15F9F978.tmp' to 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town.umap'
+[2021.04.19-12.01.51:934][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Town/Town_BuiltData" FILE="D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town_BuiltData.uasset" SILENT=true
+[2021.04.19-12.01.52:131][395]LogSavePackage: Moving 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Town_BuiltData42DB6022454591A01909B59FA8550E38.tmp' to 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town_BuiltData.uasset'
+[2021.04.19-12.01.52:138][395]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.19-12.01.52:138][395]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Maps/Town/Town_BuiltData.Town_BuiltData
+[2021.04.19-12.01.52:138][395]LogContentValidation: Display: Validating World /Game/Assets/Maps/Town/Town.Town
+[2021.04.19-12.26.37:896][339]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.04.19-12.26.42:493][580]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2021.04.19-12.26.42:533][580]LogSlate: Took 0.000580 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.19-12.26.55:373][164]LogTexture: Display: Building textures: spruce_full_01_PIV (RGBA16F, 37X35)
+[2021.04.19-12.26.55:373][164]LogTexture: Display: Building textures: spruce_full_01_VEC (BGRA8, 37X35)
+[2021.04.19-12.26.55:373][164]LogTexture: Display: Building textures: full_01_imposter_O (AutoDXT, 4096X4096)
+[2021.04.19-12.26.55:373][164]LogTexture: Display: Building textures: full_01_imposter_N (BC5, 4096X4096)
+[2021.04.19-12.26.55:373][164]LogTexture: Display: Building textures: full_01_imposter_A_unlit (AutoDXT, 4096X4096)
+[2021.04.19-12.26.55:373][164]LogStaticMesh: Building static mesh spruce_full_01...
+[2021.04.19-12.26.56:511][164]LogStaticMesh: Built static mesh [1.14s] /Game/PN_interactiveSpruceForest/Meshes/full/high/spruce_full_01.spruce_full_01
+[2021.04.19-12.26.56:571][164]LogActorFactory: Actor Factory created spruce_full_01
+[2021.04.19-12.27.00:104][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.04.19-12.27.01:361][343]LogSlate: Window 'Save Content' being destroyed
+[2021.04.19-12.27.01:386][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.04.19-12.27.01:496][343]LogSavePackage: Moving 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Town33E014C94BCF5848A7FDB895568EDFF4.tmp' to 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town.umap'
+[2021.04.19-12.27.01:500][343]LogFileHelpers: Saving map 'Town' took 0.118
+[2021.04.19-12.27.01:510][343]AssetCheck: New page: Asset Save: Town
+[2021.04.19-12.27.01:510][343]LogContentValidation: Display: Validating World /Game/Assets/Maps/Town/Town.Town
+[2021.04.19-12.27.02:399][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.04.19-12.27.02:499][395]LogSavePackage: Moving 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/TownA8E722C94E6E2E2A6561AA87457B5E0C.tmp' to 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town.umap'
+[2021.04.19-12.27.02:504][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Town/Town_BuiltData" FILE="D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town_BuiltData.uasset" SILENT=true
+[2021.04.19-12.27.02:701][395]LogSavePackage: Moving 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Town_BuiltData8CA8558742AE89E3D7E5628A84D26D67.tmp' to 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town_BuiltData.uasset'
+[2021.04.19-12.27.02:708][395]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.19-12.27.02:708][395]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Maps/Town/Town_BuiltData.Town_BuiltData
+[2021.04.19-12.27.02:708][395]LogContentValidation: Display: Validating World /Game/Assets/Maps/Town/Town.Town
+[2021.04.19-12.27.07:238][481]LogTexture: Display: Building textures: spruce_full_02_PIV (RGBA16F, 1021X3)
+[2021.04.19-12.27.07:238][481]LogTexture: Display: Building textures: spruce_full_02_VEC (BGRA8, 1021X3)
+[2021.04.19-12.27.07:238][481]LogTexture: Display: Building textures: full_02_imposter_N (BC5, 4096X4096)
+[2021.04.19-12.27.07:238][481]LogTexture: Display: Building textures: full_02_imposter_O (AutoDXT, 4096X4096)
+[2021.04.19-12.27.07:238][481]LogTexture: Display: Building textures: full_02_imposter_A_unlit (AutoDXT, 4096X4096)
+[2021.04.19-12.27.07:238][481]LogStaticMesh: Building static mesh spruce_full_02...
+[2021.04.19-12.27.10:157][481]LogStaticMesh: Built static mesh [2.92s] /Game/PN_interactiveSpruceForest/Meshes/full/high/spruce_full_02.spruce_full_02
+[2021.04.19-12.27.14:645][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.04.19-12.27.16:197][724]LogSlate: Window 'Save Content' being destroyed
+[2021.04.19-12.27.16:220][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.04.19-12.27.16:330][724]LogSavePackage: Moving 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Town2EFBC79E465D638396BE4CB2AB47B32D.tmp' to 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town.umap'
+[2021.04.19-12.27.16:333][724]LogFileHelpers: Saving map 'Town' took 0.117
+[2021.04.19-12.27.16:340][724]AssetCheck: New page: Asset Save: Town
+[2021.04.19-12.27.16:340][724]LogContentValidation: Display: Validating World /Game/Assets/Maps/Town/Town.Town
+[2021.04.19-12.27.16:941][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.04.19-12.27.17:042][757]LogSavePackage: Moving 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Town2D354A8C4589E008B70521BE83087758.tmp' to 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town.umap'
+[2021.04.19-12.27.17:046][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Town/Town_BuiltData" FILE="D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town_BuiltData.uasset" SILENT=true
+[2021.04.19-12.27.17:240][757]LogSavePackage: Moving 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Town_BuiltData376018E54B400ED4D27BA8A1CDE01D1F.tmp' to 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town_BuiltData.uasset'
+[2021.04.19-12.27.17:247][757]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.19-12.27.17:247][757]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Maps/Town/Town_BuiltData.Town_BuiltData
+[2021.04.19-12.27.17:247][757]LogContentValidation: Display: Validating World /Game/Assets/Maps/Town/Town.Town
+[2021.04.19-12.27.21:281][992]LogTexture: Display: Building textures: spruce_full_01_low_VEC (BGRA8, 265X3)
+[2021.04.19-12.27.21:281][992]LogTexture: Display: Building textures: spruce_full_01_low_PIV (RGBA16F, 265X3)
+[2021.04.19-12.27.21:281][992]LogStaticMesh: Building static mesh spruce_full_01_low...
+[2021.04.19-12.27.22:022][992]LogStaticMesh: Built static mesh [0.74s] /Game/PN_interactiveSpruceForest/Meshes/full/low/spruce_full_01_low.spruce_full_01_low
+[2021.04.19-12.27.24:072][104]LogTexture: Display: Building textures: spruce_full_02_low_VEC (BGRA8, 795X2)
+[2021.04.19-12.27.24:072][104]LogTexture: Display: Building textures: spruce_full_02_low_PIV (RGBA16F, 795X2)
+[2021.04.19-12.27.24:072][104]LogStaticMesh: Building static mesh spruce_full_02_low...
+[2021.04.19-12.27.25:457][104]LogStaticMesh: Built static mesh [1.39s] /Game/PN_interactiveSpruceForest/Meshes/full/low/spruce_full_02_low.spruce_full_02_low
+[2021.04.19-12.27.26:985][185]LogTexture: Display: Building textures: spruce_full_03_low_VEC (BGRA8, 889X2)
+[2021.04.19-12.27.26:985][185]LogTexture: Display: Building textures: spruce_full_03_low_PIV (RGBA16F, 889X2)
+[2021.04.19-12.27.26:985][185]LogStaticMesh: Building static mesh spruce_full_03_low...
+[2021.04.19-12.27.28:363][185]LogStaticMesh: Built static mesh [1.38s] /Game/PN_interactiveSpruceForest/Meshes/full/low/spruce_full_03_low.spruce_full_03_low
+[2021.04.19-12.27.30:210][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.04.19-12.27.31:473][290]LogSlate: Window 'Save Content' being destroyed
+[2021.04.19-12.27.31:497][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.04.19-12.27.31:605][290]LogSavePackage: Moving 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Town85AC5DA944C0E420B486929DCCFA41DF.tmp' to 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town.umap'
+[2021.04.19-12.27.31:609][290]LogFileHelpers: Saving map 'Town' took 0.116
+[2021.04.19-12.27.31:616][290]AssetCheck: New page: Asset Save: Town
+[2021.04.19-12.27.31:616][290]LogContentValidation: Display: Validating World /Game/Assets/Maps/Town/Town.Town
+[2021.04.19-12.27.32:826][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.04.19-12.27.32:928][359]LogSavePackage: Moving 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Town0157428F415C34DCB979C38B522DFA60.tmp' to 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town.umap'
+[2021.04.19-12.27.32:933][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Town/Town_BuiltData" FILE="D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town_BuiltData.uasset" SILENT=true
+[2021.04.19-12.27.33:126][359]LogSavePackage: Moving 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Town_BuiltDataE64A7A214A360E5AAD8E069CFB9B69E6.tmp' to 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town_BuiltData.uasset'
+[2021.04.19-12.27.33:135][359]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.19-12.27.33:135][359]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Maps/Town/Town_BuiltData.Town_BuiltData
+[2021.04.19-12.27.33:135][359]LogContentValidation: Display: Validating World /Game/Assets/Maps/Town/Town.Town
+[2021.04.19-12.27.49:326][304]LogTexture: Display: Building textures: spruce_half_01_PIV (RGBA16F, 629X3)
+[2021.04.19-12.27.49:326][304]LogTexture: Display: Building textures: spruce_half_01_VEC (BGRA8, 629X3)
+[2021.04.19-12.27.49:326][304]LogMaterial: Display: Missing cached shader map for material MA_Summer, compiling. 
+[2021.04.19-12.27.51:398][304]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 92
+[2021.04.19-12.27.51:399][304]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 82
+[2021.04.19-12.27.51:399][304]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 72
+[2021.04.19-12.27.51:399][304]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 62
+[2021.04.19-12.27.51:399][304]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 52
+[2021.04.19-12.27.51:399][304]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 42
+[2021.04.19-12.27.51:399][304]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 32
+[2021.04.19-12.27.51:399][304]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2021.04.19-12.27.51:399][304]LogTexture: Display: Building textures: half_01_imposter_O (AutoDXT, 4064X4064)
+[2021.04.19-12.27.51:399][304]LogTexture: Display: Building textures: half_01_imposter_N (BC5, 4064X4064)
+[2021.04.19-12.27.51:399][304]LogTexture: Display: Building textures: half_01_imposter_A (AutoDXT, 4096X4096)
+[2021.04.19-12.27.51:399][304]LogMaterial: Display: Missing cached shader map for material MA_Summer, compiling. 
+[2021.04.19-12.27.51:876][304]LogStaticMesh: Building static mesh spruce_half_01...
+[2021.04.19-12.27.55:787][304]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 104
+[2021.04.19-12.27.56:630][304]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 94
+[2021.04.19-12.27.57:365][304]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 84
+[2021.04.19-12.27.58:208][304]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 74
+[2021.04.19-12.27.58:294][304]LogStaticMesh: Built static mesh [6.42s] /Game/PN_interactiveSpruceForest/Meshes/half/high/spruce_half_01.spruce_half_01
+[2021.04.19-12.27.58:401][304]LogMaterial: Display: Missing cached shader map for material MA_Summer, compiling. 
+[2021.04.19-12.27.58:827][325]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 156
+[2021.04.19-12.28.00:219][390]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 146
+[2021.04.19-12.28.00:286][394]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 136
+[2021.04.19-12.28.00:407][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.04.19-12.28.01:172][400]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 126
+[2021.04.19-12.28.01:787][400]LogSlate: Window 'Save Content' being destroyed
+[2021.04.19-12.28.01:836][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.04.19-12.28.02:059][400]LogSavePackage: Moving 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Town494A4EEE4C93E5FD3E3E9C83D89DC262.tmp' to 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town.umap'
+[2021.04.19-12.28.02:065][400]LogFileHelpers: Saving map 'Town' took 0.237
+[2021.04.19-12.28.02:077][400]AssetCheck: New page: Asset Save: Town
+[2021.04.19-12.28.02:077][400]LogContentValidation: Display: Validating World /Game/Assets/Maps/Town/Town.Town
+[2021.04.19-12.28.02:681][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.04.19-12.28.02:853][432]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 116
+[2021.04.19-12.28.02:853][432]LogSavePackage: Moving 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Town25AA052A4ACFB3AE2019B3B1367853D1.tmp' to 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town.umap'
+[2021.04.19-12.28.02:862][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Town/Town_BuiltData" FILE="D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town_BuiltData.uasset" SILENT=true
+[2021.04.19-12.28.03:153][432]LogSavePackage: Moving 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Town_BuiltData67E87C94489AA87BE002CD973D312778.tmp' to 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town_BuiltData.uasset'
+[2021.04.19-12.28.03:167][432]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.19-12.28.03:167][432]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Maps/Town/Town_BuiltData.Town_BuiltData
+[2021.04.19-12.28.03:167][432]LogContentValidation: Display: Validating World /Game/Assets/Maps/Town/Town.Town
+[2021.04.19-12.28.03:360][443]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 106
+[2021.04.19-12.28.06:320][607]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 96
+[2021.04.19-12.28.11:197][663]LogTexture: Display: Building textures: spruce_half_02_PIV (RGBA16F, 301X5)
+[2021.04.19-12.28.11:197][663]LogTexture: Display: Building textures: spruce_half_02_VEC (BGRA8, 301X5)
+[2021.04.19-12.28.11:197][663]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 86
+[2021.04.19-12.28.11:197][663]LogTexture: Display: Building textures: half_02_imposter_O (AutoDXT, 4096X4096)
+[2021.04.19-12.28.11:197][663]LogTexture: Display: Building textures: half_02_imposter_N (BC5, 4096X4096)
+[2021.04.19-12.28.11:197][663]LogTexture: Display: Building textures: half_02_imposter_A (AutoDXT, 4096X4096)
+[2021.04.19-12.28.11:197][663]LogStaticMesh: Building static mesh spruce_half_02...
+[2021.04.19-12.28.17:071][663]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 76
+[2021.04.19-12.28.17:071][663]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 66
+[2021.04.19-12.28.17:071][663]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 57
+[2021.04.19-12.28.17:071][663]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 49
+[2021.04.19-12.28.17:071][663]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 42
+[2021.04.19-12.28.17:071][663]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 36
+[2021.04.19-12.28.17:071][663]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 31
+[2021.04.19-12.28.18:672][663]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2021.04.19-12.28.20:845][663]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2021.04.19-12.28.20:845][663]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2021.04.19-12.28.20:845][663]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.04.19-12.28.20:845][663]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2021.04.19-12.28.20:955][663]LogStaticMesh: Built static mesh [9.76s] /Game/PN_interactiveSpruceForest/Meshes/half/high/spruce_half_02.spruce_half_02
+[2021.04.19-12.28.23:446][663]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.04.19-12.28.23:447][663]LogTexture: Display: Building textures: spruce_half_03_VEC (BGRA8, 1579X2)
+[2021.04.19-12.28.23:447][663]LogTexture: Display: Building textures: spruce_half_03_PIV (RGBA16F, 1579X2)
+[2021.04.19-12.28.23:447][663]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2021.04.19-12.28.23:447][663]LogTexture: Display: Building textures: half_03_imposter_N (BC5, 4096X4096)
+[2021.04.19-12.28.23:447][663]LogTexture: Display: Building textures: half_03_imposter_O (AutoDXT, 4096X4096)
+[2021.04.19-12.28.23:447][663]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.04.19-12.28.23:447][663]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.04.19-12.28.23:447][663]LogTexture: Display: Building textures: half_03_imposter_A (AutoDXT, 4096X4096)
+[2021.04.19-12.28.23:447][663]LogStaticMesh: Building static mesh spruce_half_03...
+[2021.04.19-12.28.27:365][663]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.04.19-12.28.27:365][663]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.04.19-12.28.27:365][663]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.04.19-12.28.27:365][663]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.19-12.28.27:365][663]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.04.19-12.28.29:616][663]LogStaticMesh: Built static mesh [6.17s] /Game/PN_interactiveSpruceForest/Meshes/half/high/spruce_half_03.spruce_half_03
+[2021.04.19-12.28.32:490][663]LogTexture: Display: Building textures: spruce_half_04_VEC (BGRA8, 1200X2)
+[2021.04.19-12.28.32:490][663]LogTexture: Display: Building textures: spruce_half_04_PIV (RGBA16F, 1200X2)
+[2021.04.19-12.28.32:490][663]LogTexture: Display: Building textures: half_04_imposter_N (BC5, 4096X4096)
+[2021.04.19-12.28.32:490][663]LogTexture: Display: Building textures: half_04_imposter_O (AutoDXT, 4096X4096)
+[2021.04.19-12.28.32:490][663]LogTexture: Display: Building textures: half_04_imposter_A (AutoDXT, 4096X4096)
+[2021.04.19-12.28.32:490][663]LogStaticMesh: Building static mesh spruce_half_04...
+[2021.04.19-12.28.36:400][663]LogStaticMesh: Built static mesh [3.91s] /Game/PN_interactiveSpruceForest/Meshes/half/high/spruce_half_04.spruce_half_04
+[2021.04.19-12.28.52:241][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.04.19-12.28.53:420][582]LogSlate: Window 'Save Content' being destroyed
+[2021.04.19-12.28.53:450][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.04.19-12.28.53:558][582]LogSavePackage: Moving 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/TownCE54A58549B0464EA7DCEE9DCB49B7FC.tmp' to 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town.umap'
+[2021.04.19-12.28.53:562][582]LogFileHelpers: Saving map 'Town' took 0.117
+[2021.04.19-12.28.53:570][582]AssetCheck: New page: Asset Save: Town
+[2021.04.19-12.28.53:570][582]LogContentValidation: Display: Validating World /Game/Assets/Maps/Town/Town.Town
+[2021.04.19-12.28.54:687][645]LogRHI: Error: Present Fail Count 1
+[2021.04.19-12.28.54:687][645]LogRHI: Error: SyncInterval 0
+[2021.04.19-12.28.54:687][645]LogRHI: Error: SwapChainDesc.BufferDesc.Width 648
+[2021.04.19-12.28.54:687][645]LogRHI: Error: SwapChainDesc.BufferDesc.Height 133
+[2021.04.19-12.28.54:687][645]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.04.19-12.28.54:687][645]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.04.19-12.28.54:687][645]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.04.19-12.28.54:687][645]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.04.19-12.28.54:687][645]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.04.19-12.28.54:687][645]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.04.19-12.28.54:687][645]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.04.19-12.28.54:687][645]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.04.19-12.28.54:687][645]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.04.19-12.28.54:687][645]LogRHI: Error: SwapChainDesc.OutputWindow 00000000001B0830
+[2021.04.19-12.28.54:687][645]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.04.19-12.28.54:687][645]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.04.19-12.28.54:687][645]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.04.19-12.28.54:687][645]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:356 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2021.04.19-12.28.54:687][645]LogD3D11RHI: [Aftermath] GDynamicRHI=0000021FE7208E00, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2021.04.19-12.28.54:687][645]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2021.04.19-12.28.56:491][645]LogWindows: FPlatformMisc::RequestExit(0)
+[2021.04.19-12.28.56:492][645]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.04.19-12.28.56:492][645]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.04.19-12.28.56:492][645]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2021.04.19-12.28.56:498][645]Log file closed, 04/19/21 07:28:56
