@@ -31,8 +31,8 @@
 /wd4244
 /wd4838
 /I .
-/I "D:\Documents\GitHub\DungeonsAndNgons\New Unreal Project\DungeonsAndNgons\Intermediate\Build\Win64\UE4Editor\Inc\DungeonsAndNgons"
-/I "D:\Documents\GitHub\DungeonsAndNgons\New Unreal Project\DungeonsAndNgons\Source"
+/I "C:\Users\ljuar\OneDrive\Documentos\GithubDesktop\DungeonsAndNgons\Unreal Project\DungeonsAndNgons\Intermediate\Build\Win64\UE4Editor\Inc\DungeonsAndNgons"
+/I "C:\Users\ljuar\OneDrive\Documentos\GithubDesktop\DungeonsAndNgons\Unreal Project\DungeonsAndNgons\Source"
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -259,18 +259,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.7.2\include\um"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"D:\Documents\GitHub\DungeonsAndNgons\New Unreal Project\DungeonsAndNgons\Intermediate\Build\Win64\DungeonsAndNgonsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"D:\Documents\GitHub\DungeonsAndNgons\New Unreal Project\DungeonsAndNgons\Intermediate\Build\Win64\DungeonsAndNgonsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\Documents\GitHub\DungeonsAndNgons\New Unreal Project\DungeonsAndNgons\Intermediate\Build\Win64\DungeonsAndNgonsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"D:\Documents\GitHub\DungeonsAndNgons\New Unreal Project\DungeonsAndNgons\Intermediate\Build\Win64\UE4Editor\Inc\DungeonsAndNgons\DungeonsAndNgonsCharacter.gen.cpp"
-/FI"D:\Documents\GitHub\DungeonsAndNgons\New Unreal Project\DungeonsAndNgons\Intermediate\Build\Win64\UE4Editor\Development\DungeonsAndNgons\Definitions.DungeonsAndNgons.h"
-/Fo"D:\Documents\GitHub\DungeonsAndNgons\New Unreal Project\DungeonsAndNgons\Intermediate\Build\Win64\UE4Editor\Development\DungeonsAndNgons\DungeonsAndNgonsCharacter.gen.cpp.obj"
+/FI"C:\Users\ljuar\OneDrive\Documentos\GithubDesktop\DungeonsAndNgons\Unreal Project\DungeonsAndNgons\Intermediate\Build\Win64\DungeonsAndNgonsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\ljuar\OneDrive\Documentos\GithubDesktop\DungeonsAndNgons\Unreal Project\DungeonsAndNgons\Intermediate\Build\Win64\DungeonsAndNgonsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\ljuar\OneDrive\Documentos\GithubDesktop\DungeonsAndNgons\Unreal Project\DungeonsAndNgons\Intermediate\Build\Win64\DungeonsAndNgonsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\ljuar\OneDrive\Documentos\GithubDesktop\DungeonsAndNgons\Unreal Project\DungeonsAndNgons\Intermediate\Build\Win64\UE4Editor\Inc\DungeonsAndNgons\DungeonsAndNgonsCharacter.gen.cpp"
+/FI"C:\Users\ljuar\OneDrive\Documentos\GithubDesktop\DungeonsAndNgons\Unreal Project\DungeonsAndNgons\Intermediate\Build\Win64\UE4Editor\Development\DungeonsAndNgons\Definitions.DungeonsAndNgons.h"
+/Fo"C:\Users\ljuar\OneDrive\Documentos\GithubDesktop\DungeonsAndNgons\Unreal Project\DungeonsAndNgons\Intermediate\Build\Win64\UE4Editor\Development\DungeonsAndNgons\DungeonsAndNgonsCharacter.gen.cpp.obj"
 /TP
 /GR-
 /W4
