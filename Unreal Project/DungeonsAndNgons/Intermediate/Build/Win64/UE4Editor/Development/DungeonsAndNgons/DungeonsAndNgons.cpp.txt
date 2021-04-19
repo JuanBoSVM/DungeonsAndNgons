@@ -1,2 +1,2 @@
-C:\Users\ljuar\OneDrive\Documentos\GithubDesktop\DungeonsAndNgons\Unreal Project\DungeonsAndNgons\Intermediate\Build\Win64\UE4Editor\Development\DungeonsAndNgons\Definitions.DungeonsAndNgons.h
-C:\Users\ljuar\OneDrive\Documentos\GithubDesktop\DungeonsAndNgons\Unreal Project\DungeonsAndNgons\Source\DungeonsAndNgons\DungeonsAndNgons.h
+C:\Users\r2001\Documents\GitHub\DungeonsAndNgons\Unreal Project\DungeonsAndNgons\Intermediate\Build\Win64\UE4Editor\Development\DungeonsAndNgons\Definitions.DungeonsAndNgons.h
+C:\Users\r2001\Documents\GitHub\DungeonsAndNgons\Unreal Project\DungeonsAndNgons\Source\DungeonsAndNgons\DungeonsAndNgons.h
