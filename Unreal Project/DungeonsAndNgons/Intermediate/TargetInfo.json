@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DungeonsAndNgons",
+			"Path": "D:\\Documents\\GitHub\\DungeonsAndNgons\\New Unreal Project\\DungeonsAndNgons\\Source\\DungeonsAndNgons.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DungeonsAndNgonsEditor",
+			"Path": "D:\\Documents\\GitHub\\DungeonsAndNgons\\New Unreal Project\\DungeonsAndNgons\\Source\\DungeonsAndNgonsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Documents\\GitHub\\DungeonsAndNgons\\New Unreal Project\\DungeonsAndNgons\\Source\\DungeonsAndNgons\\DungeonsAndNgons.Build.cs",
+		"D:\\Documents\\GitHub\\DungeonsAndNgons\\New Unreal Project\\DungeonsAndNgons\\Source\\DungeonsAndNgons.Target.cs",
+		"D:\\Documents\\GitHub\\DungeonsAndNgons\\New Unreal Project\\DungeonsAndNgons\\Source\\DungeonsAndNgonsEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
