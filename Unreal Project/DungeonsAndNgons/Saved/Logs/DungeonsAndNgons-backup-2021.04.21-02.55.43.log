@@ -1,0 +1,975 @@
+﻿Log file open, 04/20/21 21:54:48
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: DungeonsAndNgons
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.318757
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.04.21-02.54.48:997][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.21-02.54.48:997][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.21-02.54.48:997][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Engine.ini]
+[2021.04.21-02.54.48:997][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.21-02.54.48:997][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Engine.ini]
+[2021.04.21-02.54.48:997][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Engine.ini]
+[2021.04.21-02.54.48:997][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.21-02.54.48:997][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.21-02.54.48:997][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.21-02.54.48:997][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.21-02.54.48:997][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.21-02.54.48:997][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.21-02.54.48:997][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.21-02.54.48:998][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.21-02.54.48:998][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.21-02.54.48:998][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.21-02.54.48:998][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.21-02.54.48:998][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.21-02.54.48:998][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.21-02.54.48:998][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.04.21-02.54.48:998][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Engine.ini]
+[2021.04.21-02.54.48:998][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.21-02.54.48:998][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.21-02.54.48:998][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.21-02.54.48:998][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.21-02.54.48:998][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.21-02.54.48:998][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.21-02.54.48:998][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.04.21-02.54.48:998][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.21-02.54.48:998][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.21-02.54.48:998][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.21-02.54.48:998][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.21-02.54.48:998][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.21-02.54.48:998][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.21-02.54.48:998][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.04.21-02.54.48:998][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Engine.ini]
+[2021.04.21-02.54.48:998][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Engine.ini]
+[2021.04.21-02.54.49:007][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.21-02.54.49:007][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.21-02.54.49:008][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.21-02.54.49:008][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.21-02.54.49:008][  0]LogHAL: Display: Platform has ~ 16 GB [16929984512 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.21-02.54.49:008][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.21-02.54.49:008][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.21-02.54.49:008][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Scalability.ini]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.21-02.54.49:009][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.21-02.54.49:010][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.21-02.54.49:010][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.21-02.54.49:010][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.04.21-02.54.49:010][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Engine.ini]
+[2021.04.21-02.54.49:010][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Config/Windows/Editor.ini]
+[2021.04.21-02.54.49:010][  0]LogInit: Computer: JBSVMS-PC
+[2021.04.21-02.54.49:010][  0]LogInit: User: JuanBoSVM
+[2021.04.21-02.54.49:010][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.04.21-02.54.49:010][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.04.21-02.54.49:010][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2021.04.21-02.54.49:010][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.21-02.54.49:010][  0]LogMemory: Process Physical Memory: 132.95 MB used, 132.96 MB peak
+[2021.04.21-02.54.49:010][  0]LogMemory: Process Virtual Memory: 110.24 MB used, 110.24 MB peak
+[2021.04.21-02.54.49:010][  0]LogMemory: Physical Memory: 9449.37 MB used,  6696.32 MB free, 16145.69 MB total
+[2021.04.21-02.54.49:010][  0]LogMemory: Virtual Memory: 134213136.00 MB used,  4595.02 MB free, 134217728.00 MB total
+[2021.04.21-02.54.49:236][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.21-02.54.49:280][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.04.21-02.54.49:281][  0]LogInit: Using OS detected language (en-US).
+[2021.04.21-02.54.49:281][  0]LogInit: Using OS detected locale (en-001).
+[2021.04.21-02.54.49:287][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.04.21-02.54.49:543][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.21-02.54.49:559][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.04.21-02.54.49:577][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.21-02.54.49:577][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.21-02.54.49:738][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.21-02.54.49:738][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.04.21-02.54.49:738][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.04.21-02.54.49:738][  0]LogD3D11RHI: D3D11 adapters:
+[2021.04.21-02.54.49:905][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2021.04.21-02.54.49:905][  0]LogD3D11RHI:       5980/0/8072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.04.21-02.54.49:948][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2021.04.21-02.54.49:948][  0]LogD3D11RHI:       128/0/8072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.04.21-02.54.49:954][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.04.21-02.54.49:954][  0]LogD3D11RHI:       0/0/8072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.04.21-02.54.49:954][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.04.21-02.54.49:961][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.04.21-02.54.49:961][  0]LogD3D11RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2021.04.21-02.54.49:961][  0]LogWindows: EnumDisplayDevices:
+[2021.04.21-02.54.49:961][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2021.04.21-02.54.49:961][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.04.21-02.54.49:961][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.04.21-02.54.49:962][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
+[2021.04.21-02.54.49:962][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.04.21-02.54.49:962][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.04.21-02.54.49:962][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.04.21-02.54.49:962][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.04.21-02.54.49:962][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2021.04.21-02.54.49:962][  0]LogD3D11RHI:   Driver Version: 465.89 (internal:27.21.14.6589, unified:465.89)
+[2021.04.21-02.54.49:962][  0]LogD3D11RHI:      Driver Date: 3-25-2021
+[2021.04.21-02.54.49:962][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2021.04.21-02.54.50:057][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.04.21-02.54.50:057][  0]LogD3D11RHI: Async texture creation enabled
+[2021.04.21-02.54.50:057][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.04.21-02.54.50:080][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.04.21-02.54.50:082][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.04.21-02.54.50:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.04.21-02.54.50:481][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.04.21-02.54.50:481][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.04.21-02.54.50:481][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.04.21-02.54.50:481][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.04.21-02.54.50:481][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.04.21-02.54.50:481][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.21-02.54.50:481][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.04.21-02.54.50:481][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.21-02.54.50:481][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.04.21-02.54.50:481][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.04.21-02.54.50:516][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.04.21-02.54.50:516][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.04.21-02.54.50:527][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.04.21-02.54.50:538][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.21-02.54.50:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.04.21-02.54.50:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.04.21-02.54.50:565][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.04.21-02.54.50:576][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.04.21-02.54.50:585][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.04.21-02.54.50:621][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.04.21-02.54.50:621][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.04.21-02.54.50:634][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.04.21-02.54.50:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.04.21-02.54.50:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.04.21-02.54.50:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.04.21-02.54.50:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.04.21-02.54.50:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.04.21-02.54.50:711][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.21-02.54.50:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.04.21-02.54.50:738][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.04.21-02.54.50:750][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.04.21-02.54.50:750][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.21-02.54.50:759][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.21-02.54.50:837][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.04.21-02.54.50:837][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Intermediate/Shaders/WorkingDirectory/21484/).
+[2021.04.21-02.54.50:837][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/JuanBoSVM/AppData/Local/Temp/UnrealShaderWorkingDir/213F7FA944349AE6657382A137A5BD76/'.
+[2021.04.21-02.54.50:838][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.04.21-02.54.50:838][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.21-02.54.51:716][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.21-02.54.51:781][  0]LogDerivedDataCache: Loaded boot cache 0.06s 85MB C:/Users/JuanBoSVM/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.21-02.54.51:781][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/JuanBoSVM/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.04.21-02.54.51:781][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.21-02.54.51:781][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.21-02.54.51:781][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.21-02.54.51:781][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.04.21-02.54.51:794][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.21-02.54.51:794][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.21-02.54.51:794][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.04.21-02.54.51:801][  0]LogDerivedDataCache: Speed tests for C:/Users/JuanBoSVM/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.04.21-02.54.51:802][  0]LogDerivedDataCache: Display: Performance to C:/Users/JuanBoSVM/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=331.45MBs, RandomWriteSpeed=206.21MBs. Assigned SpeedClass 'Local'
+[2021.04.21-02.54.51:802][  0]LogDerivedDataCache: Using Local data cache path C:/Users/JuanBoSVM/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.04.21-02.54.51:802][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.21-02.54.51:802][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.21-02.54.51:847][  0]LogSlate: Using FreeType 2.10.0
+[2021.04.21-02.54.51:848][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.21-02.54.51:870][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2021.04.21-02.54.52:089][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.21-02.54.52:089][  0]LogInit: Active device profile: [0000019656202400][0000019653A70100 49] Windows
+[2021.04.21-02.54.52:089][  0]LogInit: Profiles: [0000019656202400][0000019653A70100 49] Windows, [0000019656086000][00000196542AC280 49] WindowsNoEditor, [0000019656203100][00000196542B0400 49] WindowsServer, [0000019656087800][00000196542B4580 49] WindowsClient, [0000019656202100][00000196542B8700 49] IOS, [0000019656087000][00000196542BC880 49] iPadAir, [0000019656201200][00000196542C0A00 49] iPadAir2, [0000019656042F00][00000196542CECC0 49] IPadPro, [0000019656043000][00000196542C4D00 49] iPadAir3, [0000019656202A00][00000196542D8E80 49] iPadAir4, [0000019656042900][00000196542DD000 49] iPadMini2, [0000019656200F00][0000019653D6F180 49] iPadMini3, [0000019656041800][0000019653D73300 49] iPadMini4, [0000019656202B00][0000019653D77480 49] iPadMini5, [0000019656076800][0000019653D9B6C0 49] iPhone6, [0000019656076900][0000019653A75700 49] iPodTouch6, [0000019656043600][0000019653DA3940 49] iPhone7, [0000019656043700][0000019653D9F980 49] iPodTouch7, [0000019656076700][0000019653DABB00 49] iPhone5S, [0000019656042500][0000019653DAFC80 49] iPhone6Plus, [0000019656075400][0000019653DB2140 49] iPhone6S, [0000019656041400][0000019653DE22C0 49] iPhone6SPlus, [0000019656074200][0000019653DE6440 49] iPhone7Plus, [0000019656043500][0000019653DEA5C0 49] iPhoneSE, [0000019656076F00][0000019653DEE740 49] iPhone8, [0000019656043F00][0000019653DF28C0 49] iPhone8Plus, [0000019656075C00][0000019653DF6A40 49] iPhoneX, [0000019656042200][0000019653DFABC0 49] iPhoneXS, [0000019656074300][0000019653DFED40 49] iPhoneXSMax, [0000019656043C00][0000019653E02EC0 49] iPhoneXR, [0000019656077D00][0000019653E07040 49] iPhone11, [0000019656042000][0000019653E0B1C0 49] iPhone11Pro, [0000019656077400][0000019653E0F340 49] iPhone11ProMax, [0000019656042B00][0000019653E134C0 49] iPhoneSE2, [0000019656076B00][0000019653E17640 49] iPhone12Mini, [0000019656040F00][0000019653DA7780 49] iPhone12, [0000019656076200][0000019653E578C0 49] iPhone12Pro, [0000019656043300][0000019653E5BA00 49] iPhone12ProMax, [0000019656077000][0000019653E63B80 49] iPadPro105, [0000019656043E00][0000019653E67D00 49] iPadPro129, [0000019656085600][0000019653E6A1C0 49] iPadPro97, [0000019656077300][0000019653E6E340 49] iPadPro2_129, [0000019656085B00][0000019653E724C0 49] iPad5, [0000019656076100][0000019653E76640 49] iPad6, [0000019656085700][0000019653E7A7C0 49] iPad7, [0000019656076600][0000019653E7E940 49] iPad8, [0000019656084100][0000019653E82AC0 49] iPadPro11, [0000019656075D00][0000019653E86C40 49] iPadPro2_11, [0000019656087E00][0000019653E8ADC0 49] iPadPro3_129, [0000019656076C00][0000019653E8EF40 49] iPadPro4_129, [0000019656086400][0000019653E930C0 49] AppleTV, [0000019656042600][0000019653E97240 49] AppleTV4K, [0000019656084C00][0000019653E9B3C0 49] TVOS, [0000019656041900][0000019653E9F540 49] Mac, [0000019656086D00][0000019653EA36C0 49] MacClient, [0000019656041A00][0000019653E5F800 49] MacNoEditor, [0000019656087A00][0000019653EA7940 49] MacServer, [0000019656041500][0000019653EABA80 49] Linux, [0000019656084600][0000019653EB3C00 49] LinuxAArch64, [0000019656041000][0000019653EB60C0 49] LinuxNoEditor, [0000019656085C00][0000019653EBA240 49] LinuxAArch64NoEditor, [0000019656040B00][0000019653EBE3C0 49] LinuxClient, [0000019656087900][0000019653EC2540 49] LinuxAArch64Client, [0000019656041200][0000019653EC66C0 49] LinuxServer, [0000019656087600][0000019653ECA840 49] LinuxAArch64Server, [0000019656040700][00000196514C49C0 49] Android, [0000019656086C00][00000196514C8B40 49] Android_Low, [0000019656043A00][00000196514CCCC0 49] Android_Mid, [0000019656085E00][00000196514D0E40 49] Android_High, [0000019656042400][00000196514D4FC0 49] Android_Default, [0000019656084B00][00000196514D9140 49] Android_Adreno4xx, [0000019656040E00][00000196514DD2C0 49] Android_Adreno5xx_Low, [0000019656086300][00000196514E1440 49] Android_Adreno5xx, [0000019656041D00][00000196514E55C0 49] Android_Adreno6xx, [0000019656087400][0000019654085740 49] Android_Adreno6xx_Vulkan, [0000019656042700][0000019653EAF880 49] Android_Mali_T6xx, [0000019656084700][00000196540899C0 49] Android_Mali_T7xx, [0000019656043100][000001965408DB00 49] Android_Mali_T8xx, [0000019656084F00][0000019654091C40 49] Android_Mali_G71, [0000019656041F00][0000019654098100 49] Android_Mali_G72, [0000019656085300][000001965409C280 49] Android_Mali_G72_Vulkan, [0000019656040D00][00000196540A0400 49] Android_Mali_G76, [0000019656086A00][00000196540A4580 49] Android_Mali_G76_Vulkan, [0000019656040100][00000196540A8700 49] Android_Mali_G77, [0000019656085200][00000196540AC880 49] Android_Mali_G77_Vulkan, [0000019656043B00][00000196540B0A00 49] Android_Vulkan_SM5, [0000019656086900][00000196540B4B80 49] Android_PowerVR_G6xxx, [0000019656043900][00000196540B8D00 49] Android_PowerVR_GT7xxx, [0000019656086100][00000196540BCE80 49] Android_PowerVR_GE8xxx, [0000019656043200][00000196540C1000 49] Android_PowerVR_GM9xxx, [0000019656087100][00000196540C5180 49] Android_PowerVR_GM9xxx_Vulkan, [0000019656042300][00000196540C9300 49] Android_TegraK1, [0000019656086700][00000196540CD480 49] Android_Unknown_Vulkan, [0000019656043800][00000196540D1600 49] Lumin, [0000019656203E00][00000196540D5780 49] Lumin_Desktop, [0000019656077100][00000196540958C0 49] HoloLens, 
+[2021.04.21-02.54.52:198][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.21-02.54.52:198][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.21-02.54.52:198][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.21-02.54.52:198][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.21-02.54.52:198][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.21-02.54.52:211][  0]LogNetVersion: DungeonsAndNgons 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3515414654)
+[2021.04.21-02.54.52:596][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.04.21-02.54.52:627][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.031750 seconds
+[2021.04.21-02.54.52:634][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.04.21-02.54.52:634][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.04.21-02.54.52:634][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.21-02.54.52:954][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.04.21-02.54.52:968][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.21-02.54.53:238][  0]SourceControl: Source control is disabled
+[2021.04.21-02.54.53:239][  0]SourceControl: Source control is disabled
+[2021.04.21-02.54.53:244][  0]SourceControl: Source control is disabled
+[2021.04.21-02.54.53:247][  0]SourceControl: Source control is disabled
+[2021.04.21-02.54.53:255][  0]LogUProjectInfo: Found projects:
+[2021.04.21-02.54.53:285][  0]SourceControl: Source control is disabled
+[2021.04.21-02.54.53:394][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.21-02.54.53:411][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.21-02.54.53:411][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.21-02.54.53:456][  0]LogCollectionManager: Loaded 0 collections in 0.000575 seconds
+[2021.04.21-02.54.53:478][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Saved/Collections/' took 0.00s
+[2021.04.21-02.54.53:478][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Developers/JuanBoSVM/Collections/' took 0.00s
+[2021.04.21-02.54.53:478][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Collections/' took 0.00s
+[2021.04.21-02.54.53:478][  0]LogOcInput: OculusInput pre-init called
+[2021.04.21-02.54.53:487][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.04.21-02.54.53:487][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.04.21-02.54.53:529][  0]LogEngine: Initializing Engine...
+[2021.04.21-02.54.53:530][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.21-02.54.53:530][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.04.21-02.54.53:530][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.04.21-02.54.53:624][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.21-02.54.53:632][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.21-02.54.53:644][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.04.21-02.54.53:647][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.04.21-02.54.53:647][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.04.21-02.54.53:647][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.21-02.54.53:647][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.21-02.54.53:647][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.21-02.54.53:647][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.21-02.54.53:647][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.21-02.54.53:647][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.21-02.54.53:647][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.21-02.54.53:647][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.21-02.54.53:648][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.21-02.54.53:648][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.21-02.54.53:717][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.21-02.54.53:717][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.04.21-02.54.53:717][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.21-02.54.53:717][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.21-02.54.53:717][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.04.21-02.54.53:717][  0]LogAudioMixer: Display: 5: BackRight
+[2021.04.21-02.54.53:717][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.04.21-02.54.53:717][  0]LogAudioMixer: Display: 7: SideRight
+[2021.04.21-02.54.53:882][  0]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2021.04.21-02.54.53:887][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.21-02.54.53:888][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.21-02.54.53:888][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.21-02.54.53:890][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.21-02.54.53:890][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.21-02.54.53:890][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.21-02.54.53:891][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.21-02.54.53:891][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.21-02.54.53:891][  0]LogInit: FAudioDevice initialized.
+[2021.04.21-02.54.53:891][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.04.21-02.54.53:891][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.21-02.54.53:946][  0]LogDerivedDataCache: Saved boot cache 0.06s 85MB C:/Users/JuanBoSVM/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.21-02.54.53:947][  0]LogInit: Texture streaming: Enabled
+[2021.04.21-02.54.53:961][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.04.21-02.54.53:966][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.21-02.54.53:966][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.21-02.54.53:968][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.21-02.54.53:996][  0]LogInit: Transaction tracking system initialized
+[2021.04.21-02.54.54:021][  0]BlueprintLog: New page: Editor Load
+[2021.04.21-02.54.54:097][  0]LocalizationService: Localization service is disabled
+[2021.04.21-02.54.54:120][  0]TimingProfiler: Initialize
+[2021.04.21-02.54.54:121][  0]TimingProfiler: OnSessionChanged
+[2021.04.21-02.54.54:121][  0]LoadingProfiler: Initialize
+[2021.04.21-02.54.54:121][  0]LoadingProfiler: OnSessionChanged
+[2021.04.21-02.54.54:121][  0]NetworkingProfiler: Initialize
+[2021.04.21-02.54.54:121][  0]NetworkingProfiler: OnSessionChanged
+[2021.04.21-02.54.54:121][  0]MemoryProfiler: Initialize
+[2021.04.21-02.54.54:121][  0]MemoryProfiler: OnSessionChanged
+[2021.04.21-02.54.54:255][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.04.21-02.54.54:255][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.21-02.54.54:294][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/' took 0.01s
+[2021.04.21-02.54.54:536][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.04.21-02.54.54:538][  0]SourceControl: Source control is disabled
+[2021.04.21-02.54.54:538][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.759
+[2021.04.21-02.54.54:538][  0]Cmd: MAP LOAD FILE="D:/Documents/GitHub/DungeonsAndNgons/Unreal Project/DungeonsAndNgons/Content/Assets/Maps/Town/Town.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.21-02.54.54:539][  0]LightingResults: New page: Lighting Build
+[2021.04.21-02.54.54:539][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.21-02.54.54:539][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.21-02.54.54:539][  0]MapCheck: New page: Map Check
+[2021.04.21-02.54.54:539][  0]LightingResults: New page: Lighting Build
+[2021.04.21-02.54.54:545][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.04.21-02.54.55:864][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Town'.
+[2021.04.21-02.54.55:865][  0]LogAIModule: Creating AISystem for world Town
+[2021.04.21-02.54.56:014][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.21-02.54.56:048][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.04.21-02.54.56:050][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.21-02.54.56:050][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2021.04.21-02.54.56:050][  0]LogFileHelpers: Loading map 'Town' took 1.511
+[2021.04.21-02.54.56:052][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.272
+[2021.04.21-02.54.56:150][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.21-02.54.56:156][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.21-02.54.56:161][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.21-02.54.56:167][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.21-02.54.56:180][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0088 seconds. Added 3603 classes and 861 folders.
+[2021.04.21-02.54.56:187][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.21-02.54.56:188][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.21-02.54.56:188][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.21-02.54.56:188][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.21-02.54.56:188][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.04.21-02.54.56:190][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.21-02.54.56:190][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.21-02.54.56:190][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.21-02.54.56:190][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.04.21-02.54.56:191][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.04.21-02.54.56:191][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.21-02.54.56:191][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.04.21-02.54.56:191][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.04.21-02.54.56:192][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.21-02.54.56:192][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.21-02.54.56:192][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.21-02.54.56:192][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.04.21-02.54.56:193][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.21-02.54.56:193][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.21-02.54.56:193][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.21-02.54.56:193][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.04.21-02.54.56:194][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.21-02.54.56:194][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.21-02.54.56:194][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.21-02.54.56:194][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.04.21-02.54.56:195][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.21-02.54.56:195][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.21-02.54.56:195][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.21-02.54.56:195][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.04.21-02.54.56:196][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.21-02.54.56:196][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.21-02.54.56:196][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.21-02.54.56:196][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.04.21-02.54.56:197][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.21-02.54.56:197][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.21-02.54.56:197][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.21-02.54.56:197][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.04.21-02.54.56:198][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.21-02.54.56:198][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.21-02.54.56:198][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.21-02.54.56:198][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.04.21-02.54.56:199][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.21-02.54.56:199][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.21-02.54.56:199][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.21-02.54.56:199][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.04.21-02.54.56:200][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.21-02.54.56:200][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.21-02.54.56:200][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.21-02.54.56:200][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.04.21-02.54.56:201][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.21-02.54.56:201][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.21-02.54.56:201][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.21-02.54.56:201][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.04.21-02.54.56:202][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.21-02.54.56:202][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.21-02.54.56:202][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.21-02.54.56:202][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.04.21-02.54.56:203][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.21-02.54.56:203][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.21-02.54.56:203][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.21-02.54.56:203][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.04.21-02.54.56:204][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.21-02.54.56:204][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.21-02.54.56:204][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.21-02.54.56:204][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.04.21-02.54.56:205][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.21-02.54.56:205][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.21-02.54.56:205][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.21-02.54.56:205][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.04.21-02.54.56:206][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.21-02.54.56:206][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.21-02.54.56:206][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.21-02.54.56:207][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.04.21-02.54.56:208][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.21-02.54.56:208][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.21-02.54.56:208][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.21-02.54.56:208][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.04.21-02.54.56:208][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.21-02.54.56:208][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.21-02.54.56:208][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.21-02.54.56:209][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.04.21-02.54.56:209][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.21-02.54.56:209][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.21-02.54.56:209][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.21-02.54.56:210][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.04.21-02.54.56:210][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.21-02.54.56:210][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.21-02.54.56:210][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.21-02.54.56:210][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.04.21-02.54.56:211][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.04.21-02.54.56:212][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.21-02.54.56:212][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.04.21-02.54.56:212][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.04.21-02.54.56:213][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.21-02.54.56:213][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.21-02.54.56:213][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.21-02.54.56:213][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.04.21-02.54.56:215][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.21-02.54.56:215][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.21-02.54.56:215][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.21-02.54.56:215][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2021.04.21-02.54.56:216][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.21-02.54.56:216][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.21-02.54.56:216][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.21-02.54.56:216][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2021.04.21-02.54.56:288][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.21-02.54.56:289][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.04.21-02.54.56:406][  0]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.21-02.54.56:408][  0]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.21-02.54.56:412][  0]LogSlate: Took 0.000478 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.21-02.54.56:502][  0]LogRenderer: Reallocating scene render targets to support 1052x704 Format 10 NumSamples 1 (Frame:1).
+[2021.04.21-02.54.56:588][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.21-02.54.56:588][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.04.21-02.54.56:588][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.04.21-02.54.56:588][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.04.21-02.54.56:588][  0]LogLoad: (Engine Initialization) Total time: 8.81 seconds
+[2021.04.21-02.54.56:588][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.21-02.54.56:588][  0]LogInit: First time updating LLM stats...
+[2021.04.21-02.54.56:721][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.04.21-02.54.56:760][  2]LogSlate: Took 0.000731 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.21-02.54.56:765][  3]LogStaticMesh: Allocated 32x8x8 distance field atlas = 0.0Mb, with 4 objects containing 0.0Mb backing data
+[2021.04.21-02.54.56:819][  6]LogAssetRegistry: Asset discovery search completed in 4.9504 seconds
+[2021.04.21-02.54.56:820][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.04.21-02.55.32:467][919]LogTexture: Display: Building textures: T_CF_01_Wood_Shingle_01_RMA (DXT1, 2048X2048)
+[2021.04.21-02.55.32:467][919]LogTexture: Display: Building textures: T_CF_01_Wood_Shingle_01_BC (AutoDXT, 2048X2048)
+[2021.04.21-02.55.32:467][919]LogTexture: Display: Building textures: T_CF_01_Wood_Shingle_01_N (BC5, 2048X2048)
+[2021.04.21-02.55.32:467][919]LogTexture: Display: Building textures: T_CF_01_Gate_02_Right_01_RMA (DXT1, 4096X4096)
+[2021.04.21-02.55.32:467][919]LogTexture: Display: Building textures: T_CF_01_Gate_02_Right_01_N (BC5, 4096X4096)
+[2021.04.21-02.55.32:467][919]LogTexture: Display: Building textures: T_CF_01_Gate_02_Right_01_BC (AutoDXT, 4096X4096)
+[2021.04.21-02.55.32:467][919]LogTexture: Display: Building textures: T_CF_01_Stone_Floor_01_RMA (DXT1, 4096X4096)
+[2021.04.21-02.55.32:467][919]LogTexture: Display: Building textures: T_CF_01_Stone_Floor_01_BC (AutoDXT, 4096X4096)
+[2021.04.21-02.55.32:467][919]LogTexture: Display: Building textures: T_CF_01_Stone_Floor_01_N (BC5, 4096X4096)
+[2021.04.21-02.55.32:467][919]LogTexture: Display: Building textures: T_CF_01_Stone_Floor_01_Height (AutoDXT, 4096X4096)
+[2021.04.21-02.55.32:467][919]LogTexture: Display: Building textures: T_Spruce_Leaves_01_N (BC5, 512X2048)
+[2021.04.21-02.55.32:467][919]LogTexture: Display: Building textures: T_Spruce_Leaves_01_BC (AutoDXT, 512X2048)
+[2021.04.21-02.55.32:467][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Thin_Round_Door_01...
+[2021.04.21-02.55.32:474][919]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.21-02.55.32:767][919]LogStaticMesh: Built static mesh [0.30s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Thin_Round_Door_01.SM_CF_01_Stone_Wall_Thin_Round_Door_01
+[2021.04.21-02.55.32:777][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Thin_Round_01_Half_01...
+[2021.04.21-02.55.32:890][919]LogStaticMesh: Built static mesh [0.11s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Thin_Round_01_Half_01.SM_CF_01_Stone_Wall_Thin_Round_01_Half_01
+[2021.04.21-02.55.32:896][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Thin_Round_01...
+[2021.04.21-02.55.33:087][919]LogStaticMesh: Built static mesh [0.19s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Thin_Round_01.SM_CF_01_Stone_Wall_Thin_Round_01
+[2021.04.21-02.55.33:095][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Thin_Gate_02...
+[2021.04.21-02.55.33:368][919]LogStaticMesh: Built static mesh [0.27s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Thin_Gate_02.SM_CF_01_Stone_Wall_Thin_Gate_02
+[2021.04.21-02.55.33:378][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Thin_Door_01...
+[2021.04.21-02.55.33:605][919]LogStaticMesh: Built static mesh [0.23s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Thin_Door_01.SM_CF_01_Stone_Wall_Thin_Door_01
+[2021.04.21-02.55.33:614][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Thin_Diagonal_L_01...
+[2021.04.21-02.55.33:713][919]LogStaticMesh: Built static mesh [0.10s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Thin_Diagonal_L_01.SM_CF_01_Stone_Wall_Thin_Diagonal_L_01
+[2021.04.21-02.55.33:719][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Thin_Corner_01...
+[2021.04.21-02.55.33:810][919]LogStaticMesh: Built static mesh [0.09s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Thin_Corner_01.SM_CF_01_Stone_Wall_Thin_Corner_01
+[2021.04.21-02.55.33:817][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Thin_Arch_02...
+[2021.04.21-02.55.33:897][919]LogStaticMesh: Built static mesh [0.08s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Thin_Arch_02.SM_CF_01_Stone_Wall_Thin_Arch_02
+[2021.04.21-02.55.33:904][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Thin_1m_01...
+[2021.04.21-02.55.33:960][919]LogStaticMesh: Built static mesh [0.06s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Thin_1m_01.SM_CF_01_Stone_Wall_Thin_1m_01
+[2021.04.21-02.55.33:965][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Thin_02...
+[2021.04.21-02.55.34:066][919]LogStaticMesh: Built static mesh [0.10s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Thin_02.SM_CF_01_Stone_Wall_Thin_02
+[2021.04.21-02.55.34:072][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Thin_01...
+[2021.04.21-02.55.34:174][919]LogStaticMesh: Built static mesh [0.10s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Thin_01.SM_CF_01_Stone_Wall_Thin_01
+[2021.04.21-02.55.34:181][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Thick_Triangle_01...
+[2021.04.21-02.55.34:327][919]LogStaticMesh: Built static mesh [0.15s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Thick_Triangle_01.SM_CF_01_Stone_Wall_Thick_Triangle_01
+[2021.04.21-02.55.34:334][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Thick_Talus_01...
+[2021.04.21-02.55.34:441][919]LogStaticMesh: Built static mesh [0.11s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Thick_Talus_01.SM_CF_01_Stone_Wall_Thick_Talus_01
+[2021.04.21-02.55.34:458][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Thick_Slope_Right_01...
+[2021.04.21-02.55.34:483][919]LogStaticMesh: Built static mesh [0.03s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Thick_Slope_Right_01.SM_CF_01_Stone_Wall_Thick_Slope_Right_01
+[2021.04.21-02.55.34:489][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Thick_Slope_Left_01...
+[2021.04.21-02.55.34:513][919]LogStaticMesh: Built static mesh [0.02s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Thick_Slope_Left_01.SM_CF_01_Stone_Wall_Thick_Slope_Left_01
+[2021.04.21-02.55.34:520][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Thick_Slit_01...
+[2021.04.21-02.55.34:531][919]LogTexture: Display: Building textures: T_Spruce_Billboard_01_N (BC5, 2048X2048)
+[2021.04.21-02.55.34:656][919]LogStaticMesh: Built static mesh [0.14s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Thick_Slit_01.SM_CF_01_Stone_Wall_Thick_Slit_01
+[2021.04.21-02.55.34:664][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Thick_Gate_04...
+[2021.04.21-02.55.34:679][919]LogTexture: Display: Building textures: T_Spruce_Billboard_01_BC (AutoDXT, 2048X2048)
+[2021.04.21-02.55.34:978][919]LogTexture: Display: Building textures: T_Spruce_Bark_01_N (BC5, 512X512)
+[2021.04.21-02.55.35:149][919]LogTexture: Display: Building textures: T_Spruce_Bark_01_BC (AutoDXT, 512X512)
+[2021.04.21-02.55.35:150][919]LogStaticMesh: Built static mesh [0.49s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Thick_Gate_04.SM_CF_01_Stone_Wall_Thick_Gate_04
+[2021.04.21-02.55.35:162][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Thick_Gate_03...
+[2021.04.21-02.55.35:524][919]LogTexture: Display: Building textures: T_Fern_Leaves_01_N (BC5, 512X1024)
+[2021.04.21-02.55.35:524][919]LogStaticMesh: Built static mesh [0.36s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Thick_Gate_03.SM_CF_01_Stone_Wall_Thick_Gate_03
+[2021.04.21-02.55.35:537][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Thick_Gate_02...
+[2021.04.21-02.55.35:776][919]LogTexture: Display: Building textures: T_Fern_Leaves_01_BC (AutoDXT, 512X1024)
+[2021.04.21-02.55.35:888][919]LogStaticMesh: Built static mesh [0.35s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Thick_Gate_02.SM_CF_01_Stone_Wall_Thick_Gate_02
+[2021.04.21-02.55.35:899][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Thick_Arch_04...
+[2021.04.21-02.55.36:064][919]LogStaticMesh: Built static mesh [0.17s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Thick_Arch_04.SM_CF_01_Stone_Wall_Thick_Arch_04
+[2021.04.21-02.55.36:073][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Thick_Arch_02...
+[2021.04.21-02.55.36:144][919]LogTexture: Display: Building textures: T_CF_01_Wood_01_RMA (DXT1, 4096X4096)
+[2021.04.21-02.55.36:145][919]LogStaticMesh: Built static mesh [0.07s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Thick_Arch_02.SM_CF_01_Stone_Wall_Thick_Arch_02
+[2021.04.21-02.55.36:152][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Thick_1m_01...
+[2021.04.21-02.55.36:197][919]LogStaticMesh: Built static mesh [0.05s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Thick_1m_01.SM_CF_01_Stone_Wall_Thick_1m_01
+[2021.04.21-02.55.36:203][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Thick_02...
+[2021.04.21-02.55.36:301][919]LogStaticMesh: Built static mesh [0.10s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Thick_02.SM_CF_01_Stone_Wall_Thick_02
+[2021.04.21-02.55.36:307][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Thick_01...
+[2021.04.21-02.55.36:399][919]LogStaticMesh: Built static mesh [0.09s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Thick_01.SM_CF_01_Stone_Wall_Thick_01
+[2021.04.21-02.55.36:406][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Battlements_02_Slope_Right_01...
+[2021.04.21-02.55.36:432][919]LogStaticMesh: Built static mesh [0.03s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Battlements_02_Slope_Right_01.SM_CF_01_Stone_Wall_Battlements_02_Slope_Right_01
+[2021.04.21-02.55.36:438][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Battlements_02_Slope_Left_01...
+[2021.04.21-02.55.36:458][919]LogStaticMesh: Built static mesh [0.02s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Battlements_02_Slope_Left_01.SM_CF_01_Stone_Wall_Battlements_02_Slope_Left_01
+[2021.04.21-02.55.36:465][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Battlements_02_Half_01...
+[2021.04.21-02.55.36:489][919]LogStaticMesh: Built static mesh [0.02s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Battlements_02_Half_01.SM_CF_01_Stone_Wall_Battlements_02_Half_01
+[2021.04.21-02.55.36:495][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Battlements_02_Diagonal_R_04...
+[2021.04.21-02.55.36:513][919]LogStaticMesh: Built static mesh [0.02s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Battlements_02_Diagonal_R_04.SM_CF_01_Stone_Wall_Battlements_02_Diagonal_R_04
+[2021.04.21-02.55.36:521][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Battlements_02_Corner_03...
+[2021.04.21-02.55.36:542][919]LogStaticMesh: Built static mesh [0.02s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Battlements_02_Corner_03.SM_CF_01_Stone_Wall_Battlements_02_Corner_03
+[2021.04.21-02.55.36:546][919]LogTexture: Display: Building textures: T_CF_01_Wood_01_N (BC5, 4096X4096)
+[2021.04.21-02.55.36:552][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Battlements_02_Corner_01...
+[2021.04.21-02.55.36:579][919]LogStaticMesh: Built static mesh [0.03s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Battlements_02_Corner_01.SM_CF_01_Stone_Wall_Battlements_02_Corner_01
+[2021.04.21-02.55.36:605][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Battlements_02_2m_01...
+[2021.04.21-02.55.36:675][919]LogStaticMesh: Built static mesh [0.07s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Battlements_02_2m_01.SM_CF_01_Stone_Wall_Battlements_02_2m_01
+[2021.04.21-02.55.36:680][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Battlements_02_1m_01...
+[2021.04.21-02.55.36:699][919]LogStaticMesh: Built static mesh [0.02s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Battlements_02_1m_01.SM_CF_01_Stone_Wall_Battlements_02_1m_01
+[2021.04.21-02.55.36:708][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Battlements_02...
+[2021.04.21-02.55.36:727][919]LogStaticMesh: Built static mesh [0.02s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Battlements_02.SM_CF_01_Stone_Wall_Battlements_02
+[2021.04.21-02.55.36:735][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Battlements_01_Triangle_02_Slit_01...
+[2021.04.21-02.55.36:758][919]LogStaticMesh: Built static mesh [0.02s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Battlements_01_Triangle_02_Slit_01.SM_CF_01_Stone_Wall_Battlements_01_Triangle_02_Slit_01
+[2021.04.21-02.55.36:771][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Battlements_01_Slope_Right_01...
+[2021.04.21-02.55.36:792][919]LogStaticMesh: Built static mesh [0.02s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Battlements_01_Slope_Right_01.SM_CF_01_Stone_Wall_Battlements_01_Slope_Right_01
+[2021.04.21-02.55.36:799][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Battlements_01_Slope_Left_01...
+[2021.04.21-02.55.36:828][919]LogStaticMesh: Built static mesh [0.03s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Battlements_01_Slope_Left_01.SM_CF_01_Stone_Wall_Battlements_01_Slope_Left_01
+[2021.04.21-02.55.36:838][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Battlements_01_Slit_01...
+[2021.04.21-02.55.36:856][919]LogStaticMesh: Built static mesh [0.02s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Battlements_01_Slit_01.SM_CF_01_Stone_Wall_Battlements_01_Slit_01
+[2021.04.21-02.55.36:864][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Battlements_01_Round_02_Slit_01...
+[2021.04.21-02.55.36:891][919]LogStaticMesh: Built static mesh [0.03s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Battlements_01_Round_02_Slit_01.SM_CF_01_Stone_Wall_Battlements_01_Round_02_Slit_01
+[2021.04.21-02.55.36:899][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Battlements_01_Diagonal_R_04...
+[2021.04.21-02.55.36:919][919]LogStaticMesh: Built static mesh [0.02s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Battlements_01_Diagonal_R_04.SM_CF_01_Stone_Wall_Battlements_01_Diagonal_R_04
+[2021.04.21-02.55.36:925][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Battlements_01_Diagonal_L_02_Slit_01...
+[2021.04.21-02.55.36:950][919]LogStaticMesh: Built static mesh [0.03s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Battlements_01_Diagonal_L_02_Slit_01.SM_CF_01_Stone_Wall_Battlements_01_Diagonal_L_02_Slit_01
+[2021.04.21-02.55.36:956][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Battlements_01_Corner_02_Slit_01...
+[2021.04.21-02.55.36:991][919]LogStaticMesh: Built static mesh [0.03s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Battlements_01_Corner_02_Slit_01.SM_CF_01_Stone_Wall_Battlements_01_Corner_02_Slit_01
+[2021.04.21-02.55.36:998][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Battlements_01_Corner_01_Slit...
+[2021.04.21-02.55.37:022][919]LogStaticMesh: Built static mesh [0.02s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Battlements_01_Corner_01_Slit.SM_CF_01_Stone_Wall_Battlements_01_Corner_01_Slit
+[2021.04.21-02.55.37:028][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Battlements_01_2m_Slit_01...
+[2021.04.21-02.55.37:044][919]LogStaticMesh: Built static mesh [0.02s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Battlements_01_2m_Slit_01.SM_CF_01_Stone_Wall_Battlements_01_2m_Slit_01
+[2021.04.21-02.55.37:055][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Battlements_01_2m_01...
+[2021.04.21-02.55.37:070][919]LogStaticMesh: Built static mesh [0.02s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Battlements_01_2m_01.SM_CF_01_Stone_Wall_Battlements_01_2m_01
+[2021.04.21-02.55.37:076][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Wall_Battlements_01_1m_01...
+[2021.04.21-02.55.37:091][919]LogStaticMesh: Built static mesh [0.02s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Wall_Battlements_01_1m_01.SM_CF_01_Stone_Wall_Battlements_01_1m_01
+[2021.04.21-02.55.37:096][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Stairs_Thick_02...
+[2021.04.21-02.55.37:553][919]LogStaticMesh: Built static mesh [0.46s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Stairs_Thick_02.SM_CF_01_Stone_Stairs_Thick_02
+[2021.04.21-02.55.37:562][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Stairs_Thick_01...
+[2021.04.21-02.55.37:779][919]LogTexture: Display: Building textures: T_CF_01_Wood_01_BC (AutoDXT, 4096X4096)
+[2021.04.21-02.55.37:782][919]LogStaticMesh: Built static mesh [0.22s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Stairs_Thick_01.SM_CF_01_Stone_Stairs_Thick_01
+[2021.04.21-02.55.37:792][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Stairs_Round_01...
+[2021.04.21-02.55.37:955][919]LogStaticMesh: Built static mesh [0.16s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Stairs_Round_01.SM_CF_01_Stone_Stairs_Round_01
+[2021.04.21-02.55.37:961][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Machicolation_Triangle_01...
+[2021.04.21-02.55.38:240][919]LogStaticMesh: Built static mesh [0.28s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Machicolation_Triangle_01.SM_CF_01_Stone_Machicolation_Triangle_01
+[2021.04.21-02.55.38:248][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Machicolation_Slope_Right_01...
+[2021.04.21-02.55.38:466][919]LogStaticMesh: Built static mesh [0.22s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Machicolation_Slope_Right_01.SM_CF_01_Stone_Machicolation_Slope_Right_01
+[2021.04.21-02.55.38:474][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Machicolation_Round_01...
+[2021.04.21-02.55.38:993][919]LogStaticMesh: Built static mesh [0.52s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Machicolation_Round_01.SM_CF_01_Stone_Machicolation_Round_01
+[2021.04.21-02.55.39:019][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Machicolation_Diagonal_L_01...
+[2021.04.21-02.55.39:326][919]LogStaticMesh: Built static mesh [0.31s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Machicolation_Diagonal_L_01.SM_CF_01_Stone_Machicolation_Diagonal_L_01
+[2021.04.21-02.55.39:336][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Machicolation_Corner_01...
+[2021.04.21-02.55.39:452][919]LogStaticMesh: Built static mesh [0.12s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Machicolation_Corner_01.SM_CF_01_Stone_Machicolation_Corner_01
+[2021.04.21-02.55.39:458][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Machicolation_2m_01...
+[2021.04.21-02.55.39:594][919]LogStaticMesh: Built static mesh [0.14s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Machicolation_2m_01.SM_CF_01_Stone_Machicolation_2m_01
+[2021.04.21-02.55.39:601][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Machicolation_1m_01...
+[2021.04.21-02.55.39:690][919]LogStaticMesh: Built static mesh [0.09s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Machicolation_1m_01.SM_CF_01_Stone_Machicolation_1m_01
+[2021.04.21-02.55.39:697][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Machicolation_01...
+[2021.04.21-02.55.39:931][919]LogStaticMesh: Built static mesh [0.23s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Machicolation_01.SM_CF_01_Stone_Machicolation_01
+[2021.04.21-02.55.39:939][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Floor_Tile_06...
+[2021.04.21-02.55.39:959][919]LogStaticMesh: Built static mesh [0.02s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Floor_Tile_06.SM_CF_01_Stone_Floor_Tile_06
+[2021.04.21-02.55.39:971][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Floor_Tile_03...
+[2021.04.21-02.55.39:988][919]LogStaticMesh: Built static mesh [0.02s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Floor_Tile_03.SM_CF_01_Stone_Floor_Tile_03
+[2021.04.21-02.55.39:994][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Floor_Tile_02...
+[2021.04.21-02.55.40:012][919]LogStaticMesh: Built static mesh [0.02s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Floor_Tile_02.SM_CF_01_Stone_Floor_Tile_02
+[2021.04.21-02.55.40:019][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Floor_Tile_01...
+[2021.04.21-02.55.40:036][919]LogStaticMesh: Built static mesh [0.02s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Floor_Tile_01.SM_CF_01_Stone_Floor_Tile_01
+[2021.04.21-02.55.40:040][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Floor_Round_Half_01...
+[2021.04.21-02.55.40:073][919]LogStaticMesh: Built static mesh [0.03s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Floor_Round_Half_01.SM_CF_01_Stone_Floor_Round_Half_01
+[2021.04.21-02.55.40:081][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Floor_Diagonal_L_01...
+[2021.04.21-02.55.40:103][919]LogStaticMesh: Built static mesh [0.02s] /Game/Medieval_Castle_Vol1/Meshes/SM_CF_01_Stone_Floor_Diagonal_L_01.SM_CF_01_Stone_Floor_Diagonal_L_01
+[2021.04.21-02.55.40:109][919]LogStaticMesh: Building static mesh SM_CF_01_Stone_Floor_01_Half_01...
+[2021.04.21-02.55.40:126][919]LogRHI: Error: Present Fail Count 1
+[2021.04.21-02.55.40:126][919]LogRHI: Error: SyncInterval 0
+[2021.04.21-02.55.40:126][919]LogRHI: Error: SwapChainDesc.BufferDesc.Width 648
+[2021.04.21-02.55.40:126][919]LogRHI: Error: SwapChainDesc.BufferDesc.Height 97
+[2021.04.21-02.55.40:126][919]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.04.21-02.55.40:126][919]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.04.21-02.55.40:126][919]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.04.21-02.55.40:126][919]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.04.21-02.55.40:126][919]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.04.21-02.55.40:126][919]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.04.21-02.55.40:126][919]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.04.21-02.55.40:126][919]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.04.21-02.55.40:126][919]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.04.21-02.55.40:126][919]LogRHI: Error: SwapChainDesc.OutputWindow 00000000005D06EC
+[2021.04.21-02.55.40:126][919]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.04.21-02.55.40:126][919]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.04.21-02.55.40:126][919]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.04.21-02.55.40:128][919]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:356 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2021.04.21-02.55.40:128][919]LogD3D11RHI: [Aftermath] GDynamicRHI=00000196383A2E40, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2021.04.21-02.55.40:128][919]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2021.04.21-02.55.43:029][919]LogTexture: Display: Building textures: T_CF_01_FlagStone_01_RMA (DXT1, 4096X4096)
+[2021.04.21-02.55.43:029][919]LogWindows: FPlatformMisc::RequestExit(0)
+[2021.04.21-02.55.43:029][919]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.04.21-02.55.43:029][919]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.04.21-02.55.43:029][919]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2021.04.21-02.55.43:036][919]Log file closed, 04/20/21 21:55:43
